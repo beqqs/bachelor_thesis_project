@@ -1,0 +1,894 @@
+year,type,title,note,journal,doi,author,ENTRYTYPE,ID
+2004,InProceedings,"metrology, measurement and metrics in software engineering",37,Unknown Venue,10.1109/metric.2003.1232451,Abran A.,article,RRexportA.Abran2004
+2002,InProceedings,testing concurrency and communication in distributed objects,8,Unknown Venue,10.1109/hipc.1998.738017,Bader A.,article,RRexportA.Bader2002
+1999,Book,nusmv: a new symbolic model verifier,619,LNCS,10.1007/3-540-48683-6_44,Cimatti A.,article,RRexportA.Cimatti1999
+2013,Journal,software model checking systemc,53,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,10.1109/tcad.2012.2232351,Cimatti A.,article,RRexportA.Cimatti2013
+2002,Journal,timed wp-method: testing real-time systems,138,IEEE Transactions on Software Engineering,10.1109/tse.2002.1049402,Nouaary A.E.,article,RRexportA.En-Nouaary2002
+2002,InProceedings,timed test cases generation based on state characterization technique,113,Unknown Venue,10.1109/real.1998.739748,Nouaary A.E.,article,RRexportA.En-Nouaary2002
+2003,InProceedings,fault coverage in testing real-time systems,37,Unknown Venue,10.1109/rtcsa.1999.811206,Nouaary A.E.,article,RRexportA.En-Nouaary2003
+2006,InProceedings,generating finite state machines from system c,42,Unknown Venue,10.1109/date.2006.243777,Habibi A.,article,RRexportA.Habibi2006
+1987,Journal,a fortran 77 interpreter for mutation analysis,38,ACM SIGPLAN Notices,10.1145/960114.29669,Offutt A.J.,article,RRexportA.J.Offutt1987
+2002,InProceedings,detecting equivalent mutants and the feasible path problem,133,Unknown Venue,10.1109/cmpass.1996.507890,Offutt A.,article,RRexportA.J.Offutt2002
+2002,InProceedings,a practical system for mutation testing: help for the common programmer,84,Unknown Venue,10.1109/test.1994.528535,Offutt A.,article,RRexportA.J.Offutt2002
+2002,InProceedings,a new method for testing real time systems,23,Unknown Venue,10.1109/rtcsa.2000.896424,Khoumsi A.,article,RRexportA.Khoumsi2002
+2010,InProceedings,runtime monitoring of contract regulated web services,12,Unknown Venue,10.5555/1838206.1838426,Lomuscio A.,article,RRexportA.Lomuscio2010
+2002,InProceedings,"performance, effectiveness, and reliability issues in software testing",152,Unknown Venue,10.1109/cmpsac.1991.170248,Mathur A.,article,RRexportA.P.Mathur2002
+2003,Journal,electronic-system design in the automobile industry,35,IEEE Micro,10.1109/mm.2003.1209462,Vincentelli A.S.,article,RRexportA.Sangiovanni-Vincentelli2003
+1991,Journal,an optimization technique for protocol conformance test generation based on uio sequences and rural chinese postman tours,410,IEEE Transactions on Communications,10.1109/26.111442,Aho A.,article,RRexportA.V.Aho1991
+2003,Book,a guided method for testing timed input output automata,38,LNCS,10.1007/3-540-44830-6_16,Nouaary A.E.,article,RRexportAbdeslamEn-Nouaary2003
+2007,Journal,a scalable method for testing real-time systems,26,Software Quality Journal,10.1007/s11219-007-9021-8,Nouaary A.E.,article,RRexportAbdeslamEn-Nouaary2007
+2008,InProceedings,a boundary checking technique for testing real-time systems modeled as timed input output automata,11,Unknown Venue,10.1109/qsic.2008.53,Nouaary A.E.,article,RRexportAbdeslamEn-Nouaary2008
+2009,InProceedings,generating feasible transition paths for testing from an extended finite state machine (efsm),99,"International Conference on Software Testing, Verification, and Validation",10.1109/icst.2009.29,Kalaji A.S.,article,RRexportAbdulSalamKalaji2009
+2010,Unknown,search-based software engineering : a search-based approach for testing from extended finite state machine (efsm) models,4,Unknown Venue,None,Kalaji A.S.,article,RRexportAbdulSalamKalaji2010
+2006,Book,interactive testing with hol-testgen,19,LNCS,10.1007/11759744_7,Brucker A.D.,article,RRexportAchimD.Brucker2006
+2008,Book,extensible universes for object-oriented data models,4,LNCS,10.1007/978-3-540-70592-5_19,Brucker A.D.,article,RRexportAchimD.Brucker2008
+2005,InProceedings,safe futures for java,182,Unknown Venue,10.1145/1094811.1094845,Welc A.,article,RRexportAdamWelc2005
+2011,Journal,generating asynchronous test cases from test purposes,24,Information and Software Technology,10.1016/j.infsof.2011.06.006,Simao A.,article,RRexportAdenilsoSimao2011
+2011,Journal,a new method for testing timed systems,2,Software Testing Verification and Reliability,10.1002/stvr.454,Bonifácio A.L.,article,RRexportAdilsonLuizBonifácio2011
+1996,Book,verifying continuous time markov chains,343,LNCS,10.1007/3-540-61474-5_75,Aziz A.,article,RRexportAdnanAziz1996
+2015,InProceedings,symbolic test case generation of compositional real-time systems driven by interruptions,2,Unknown Venue,10.1109/isorc.2015.38,Damasceno A.C.,article,RRexportAdrianaCarlaDamasceno2015
+2011,Journal,flow graph extraction for modular verification of java programs,6,Unknown Venue,None,Amighi A.,article,RRexportAfshinAmighi2011
+2007,Book,context-bounded analysis of multithreaded programs with dynamic linked structures,40,Computer Aided Verification,10.1007/978-3-540-73368-3_24,Bouajjani A.,article,RRexportAhmedBouajjani2007
+2002,Book,a method for testing the conformance of real time systems,19,LNCS,10.1007/3-540-45739-9_20,Khoumsi A.,article,RRexportAhmedKhoumsi2002
+2004,Book,test cases generation for nondeterministic real-time systems,26,LNCS,10.1007/978-3-540-24617-6_10,Khoumsi A.,article,RRexportAhmedKhoumsi2004
+2004,Book,test cases generation for nondeterministic real-time systems,26,LNCS,10.1007/978-3-540-24617-6_10,Khoumsi A.,article,RRexportAhmedKhoumsi2004
+2008,Book,test purpose concretization through symbolic action refinement,10,LNCS,10.1007/978-3-540-68524-1_14,Faivre A.,article,RRexportAlainFaivre2008
+2007,InProceedings,code-coverage based test vector generation for systemc designs,12,Unknown Venue,10.1109/isvlsi.2007.31,Junior A.D.,article,RRexportAlairDiasJunior2007
+2006,Journal,constructing induction rules for deductive synthesis proofs,2858,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2005.08.003,Bundy A.,article,RRexportAlanBundy2006
+2004,Book,concurrent and real-time programming in java,201,Unknown Venue,None,Burns A.,article,RRexportAlanBurns2004
+2003,Journal,model driven testing – agedis architecture interfaces and tools,19,Unknown Venue,None,Hartman A.,article,RRexportAlanHartman2003
+2010,InProceedings,verifying systemc: a software model checking approach,70,Formal Methods in Computer-Aided Design,10.5555/1998496.1998510,Cimatti A.,article,RRexportAlessandroCimatti2010
+2011,Book,kratos: a software model checker for systemc,64,LNCS,10.1007/978-3-642-22110-1_24,Cimatti A.,article,RRexportAlessandroCimatti2011
+2011,Journal,runtime monitoring of contract regulated web services,9,Fundamenta Informaticae,10.3233/fi-2011-566,Lomuscio A.,article,RRexportAlessioLomuscio2011
+1999,Journal,introduction to set constraint-based program analysis,135,Science of Computer Programming,10.1016/s0167-6423(99)00007-6,Aiken A.,article,RRexportAlexanderAiken1999
+2009,Journal,specifying norm-governed computational societies,218,ACM Transactions on Computational Logic,10.1145/1459010.1459011,Artikis A.,article,RRexportAlexanderArtikis2009
+1998,Journal,ins and outs in refusal testing,69,Unknown Venue,None,Heerink A.W.,article,RRexportAlexanderWilhelmusHeerink1998
+2009,Book,model-based framework for schedulability analysis using uppaal 41,61,"Computational analysis, synthesis, and design of dynamic models series",10.1201/9781420067859-c4,David A.,article,RRexportAlexandreDavid2009
+2009,InProceedings,timed testing under partial observability,23,"International Conference on Software Testing, Verification, and Validation",10.1109/icst.2009.38,David A.,article,RRexportAlexandreDavid2009
+2009,Book,model-based framework for schedulability analysis using uppaal 41,61,"Computational analysis, synthesis, and design of dynamic models series",10.1201/9781420067859-c4,David A.,article,RRexportAlexandreDavid2009
+2008,Book,testing of software and communicating systems,60,Unknown Venue,None,Petrenko A.,article,RRexportAlexandrePetrenko2008
+1986,Book,"compilers: principles, techniques, and tools",8342,Unknown Venue,None,Aho A.V.,article,RRexportAlfredV.Aho1986
+2005,Book,an approach for the verification of systemc designs using asml,25,LNCS,10.1007/11562948_8,Habibi A.,article,RRexportAliHabibi2005
+1977,InProceedings,the temporal logic of programs,5607,Unknown Venue,10.1109/sfcs.1977.32,Pnueli A.,article,RRexportAmirPnueli1977
+1996,Book,a platform for combining deductive with algorithmic verification,83,LNCS,10.1007/3-540-61474-5_68,Pnueli A.,article,RRexportAmirPnueli1996
+2010,Book,a note on traces refinement and the conf relation in the unifying theories of programming,17,LNCS,10.1007/978-3-642-14521-6_4,Cavalcanti A.,article,RRexportAnaCavalcanti2010
+2003,Journal,new approaches for passive testing using an extended finite state machine specification,84,Information and Software Technology,10.1016/s0950-5849(03)00063-6,Cavalli A.,article,RRexportAnaCavalli2003
+1996,Journal,standardization of formal methods in conformance testing of communication protocols,17,Computer Networks and ISDN Systems,10.1016/s0169-7552(96)00015-3,Cavalli A.R.,article,RRexportAnaR.Cavalli1996
+2004,Book,time-optimal real-time test case generation using uppaal,93,LNCS,10.1007/978-3-540-24617-6_9,Hessel A.,article,RRexportAndersHessel2004
+2004,Book,time-optimal test cases for real-time systems,24,LNCS,10.1007/978-3-540-40903-8_19,Hessel A.,article,RRexportAndersHessel2004
+2007,Journal,cover - a real-time test case generation tool,17,Unknown Venue,None,Hessel A.,article,RRexportAndersHessel2007
+2007,Journal,a global algorithm for model-based test suite generation,33,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2007.08.005,Hessel A.,article,RRexportAndersHessel2007
+1998,Book,"formal techniques in real-time and fault-tolerant systems: 5th international symposium, ftrtft '98, lyngby, denmark, september 14-18, 1998",11,IEEE Computer Society Press eBooks,None,Ravn A.P.,article,RRexportAndersPeterRavn1998
+2004,Journal,a formal approach to component adaptation,251,Journal of Systems and Software,10.1016/j.jss.2003.05.007,Bracciali A.,article,RRexportAndreaBracciali2004
+2008,Book,fshell: systematic test case generation for dynamic analysis and measurement,52,LNCS,10.1007/978-3-540-70545-1_20,Holzer A.,article,RRexportAndreasHolzer2008
+2008,Book,query-driven program testing,42,LNCS,10.1007/978-3-540-93900-9_15,Holzer A.,article,RRexportAndreasHolzer2008
+2010,InProceedings,how did you specify your test suite,47,Unknown Venue,10.1145/1858996.1859084,Holzer A.,article,RRexportAndreasHolzer2010
+2011,Book,seamless testing for models and code,5,LNCS,10.1007/978-3-642-19811-3_20,Holzer A.,article,RRexportAndreasHolzer2011
+1997,Book,specification-based testing of concurrent systems,27,Springer eBooks,10.1007/978-0-387-35271-8_1,Ulrich A.,article,RRexportAndreasUlrich1997
+1999,Book,architectures for testing distributed systems,56,IFIP advances in information and communication technology,10.1007/978-0-387-35567-2_7,Ulrich A.,article,RRexportAndreasUlrich1999
+2007,InProceedings,performance analysis of flexray-based ecu networks,70,Proceedings - ACM IEEE Design Automation Conference,10.1145/1278480.1278554,Hagiescu A.,article,RRexportAndreiHagiescu2007
+2010,Journal,"conditional partial order graphs: model, synthesis, and application",48,IEEE Transactions on Computers,10.1109/tc.2010.58,Mokhov A.,article,RRexportAndreyMokhov2010
+2006,Journal,generating interaction test cases for mobile phone systems from use case specifications,23,ACM SIGSOFT Software Engineering Notes,10.1145/1218776.1218788,Figueiredo A.L.L.D.,article,RRexportAndréL.L.deFigueiredo2006
+2008,Book,applications of graph transformations with industrial relevance,250,LNCS,10.1007/978-3-540-89020-1,Schürr A.,article,RRexportAndySchürr2008
+2010,Book,mutation-based test case generation for simulink models,64,LNCS,10.1007/978-3-642-17071-3_11,Brillout A.,article,RRexportAngeloBrillout2010
+2008,Book,regional logic for local reasoning about global invariants,104,LNCS,10.1007/978-3-540-70592-5_17,Banerjee A.,article,RRexportAnindyaBanerjee2008
+1989,Book,basic notions of trace theory,200,LNCS,10.1007/bfb0013025,Mazurkiewicz A.,article,RRexportAntoniMazurkiewicz1989
+2003,Book,resource interfaces,120,LNCS,10.1007/978-3-540-45212-6_9,Chakrabarti A.,article,RRexportArindamChakrabarti2003
+2012,Book,modelling and decentralised runtime control of self-stabilising power micro grids,23,LNCS,10.1007/978-3-642-34026-0_31,Hartmanns A.,article,RRexportArndHartmanns2012
+2009,Journal,model-based test cases synthesis using uml interaction diagrams,16,ACM SIGSOFT Software Engineering Notes,10.1145/1507195.1507209,Nayak A.,article,RRexportAshalathaNayak2009
+2003,InProceedings,formal semantics of synchronous systemc,47,"Design, Automation, and Test in Europe",10.5555/789083.1022755,Salem A.,article,RRexportAshrafSalem2003
+2008,InProceedings,proving non-termination,157,Unknown Venue,10.1145/1328438.1328459,Gupta A.,article,RRexportAshutoshGupta2008
+2009,Book,compositional verification of input-output conformance via csp refinement checking,17,LNCS,10.1007/978-3-642-10373-5_2,Sampaio A.,article,RRexportAugustoSampaio2009
+2010,Book,jtorx: a tool for on-line model-driven test derivation and execution,76,LNCS,10.1007/978-3-642-12002-2_21,Belinfante A.,article,RRexportAxelBelinfante2010
+2000,Journal,the jalapeño virtual machine,583,IBM Systems Journal,10.1147/sj.391.0211,Alpern B.,article,RRexportB.Alpern2000
+2004,Journal,the tool tina – construction of abstract state spaces for petri nets and time petri nets,386,International Journal of Production Research,10.1080/00207540412331312688,* B.B.,article,RRexportB.Berthomieu*2004
+1991,Journal,modeling and verification of time dependent systems using time petri nets,1082,IEEE Transactions on Software Engineering,10.1109/32.75415,Berthomieu B.,article,RRexportB.Berthomieu1991
+1985,Journal,"timing constraints of real-time systems: constructs for expressing them, methods of validating them",242,IEEE Transactions on Software Engineering,10.1109/tse.1985.231845,Dasarathy B.,article,RRexportB.Dasarathy1985
+1989,Book,"timing constraints of real-time systems: constructs for expressing them, methods of validating them",17,IEEE Computer Society Press eBooks,None,Dasarathy B.,article,RRexportB.Dasarathy1989
+1992,Journal,applying 'design by contract',2118,Computer,10.1109/2.161279,Meyer B.,article,RRexportB.Meyer1992
+1984,Journal,synchronization and specification issues in protocol testing,147,IEEE Transactions on Communications,10.1109/tcom.1984.1096074,Sarikaya B.,article,RRexportB.Sarikaya1984
+2011,Unknown,"towards secure web services : performance analysis, decision making and steganography approaches",1,Unknown Venue,None,Alrouh B.,article,RRexportBacharAlrouh2011
+2004,Book,network protocol system passive testing for fault management: a backward checking approach,45,LNCS,10.1007/978-3-540-30232-2_10,Alcalde B.,article,RRexportBaptisteAlcalde2004
+1994,Journal,a behavioral notion of subtyping,1150,ACM Transactions on Programming Languages and Systems,10.1145/197320.197383,Liskov B.H.,article,RRexportBarbaraH.Liskov1994
+2005,Book,comparison of the expressiveness of timed automata and time petri nets,88,LNCS,10.1007/11603009_17,Bérard B.,article,RRexportBeatriceBérard2005
+1995,Book,synchronization and specification issues in protocol testing,6,IEEE Computer Society Press eBooks,None,Sarikaya B.,article,RRexportBehçetSarikaya1995
+2002,Book,types and programming languages,2333,Unknown Venue,None,Pierce B.C.,article,RRexportBenjaminC.Pierce2002
+2006,Book,bridging the gap between timed automata and bounded time petri nets,60,LNCS,10.1007/11867340_7,Berthomieu B.,article,RRexportBernardBerthomieu2006
+2007,Book,model checking bounded prioritized time petri nets,36,Automated Technology for Verification and Analysis,10.1007/978-3-540-75596-8_37,Berthomieu B.,article,RRexportBernardBerthomieu2007
+2008,Book,"distributed embedded systems: design, middleware and resources",9,IFIP International Federation for Information Processing/IFIP,10.1007/978-0-387-09661-2,Kleinjohann B.,article,RRexportBerndKleinjohann2008
+2005,Book,an improved rule for while loops in deductive program verification,17,LNCS,10.1007/11576280_22,Beckert B.,article,RRexportBernhardBeckert2005
+2006,Book,verification of object-oriented software the key approach,417,LNCS,10.1007/978-3-540-69061-0,Beckert B.,article,RRexportBernhardBeckert2006
+2003,Journal,mutation testing in the refinement calculus,38,Formal Aspects of Computing,10.1007/s00165-003-0011-8,Aichernig B.K.,article,RRexportBernhardK.Aichernig2003
+2009,Book,qualitative action systems,12,LNCS,10.1007/978-3-642-10373-5_11,Aichernig B.K.,article,RRexportBernhardK.Aichernig2009
+2010,Book,model-based mutation testing of hybrid systems,20,LNCS,10.1007/978-3-642-17071-3_12,Aichernig B.K.,article,RRexportBernhardK.Aichernig2010
+2005,Book,symbolic test selection based on approximate analysis,68,LNCS,10.1007/978-3-540-31980-1_23,Jeannet B.,article,RRexportBertrandJeannet2005
+2005,Book,symbolic test selection based on approximate analysis,68,LNCS,10.1007/978-3-540-31980-1_23,Jeannet B.,article,RRexportBertrandJeannet2005
+1997,Book,"object-oriented software construction, 2nd edition",1137,Prentice Hall eBooks,None,Meyer B.,article,RRexportBertrandMeyer1997
+2012,Book,behavioural equivalences over migrating processes with timers,7,LNCS,10.1007/978-3-642-30793-5_4,Aman B.,article,RRexportBogdanAman2012
+2012,InProceedings,schedulability analysis for the dynamic segment of flexray: a generalization to slot multiplexing,23,Unknown Venue,10.1109/rtas.2012.10,Tanasa B.,article,RRexportBogdanTanasa2012
+2009,Book,amortised memory analysis using the depth of data structures,34,LNCS,10.1007/978-3-642-00590-9_14,Campbell B.,article,RRexportBrianCampbell2009
+2014,Book,randomised testing of a microprocessor model using smt-solver state generation,81,LNCS,10.1007/978-3-319-10702-8_13,Campbell B.,article,RRexportBrianCampbell2014
+2001,Book,automated test generation from timed automata,85,LNCS,10.1007/3-540-45319-9_24,Nielsen B.,article,RRexportBrianNielsen2001
+2003,Journal,automated test generation from timed automata,60,International Journal on Software Tools for Technology Transfer,10.1007/s10009-002-0094-1,Nielsen B.,article,RRexportBrianNielsen2003
+1975,Book,algol 60 implementation: the translation and use of algol 60 programs on a computer,10,Unknown Venue,None,Randell B.,article,RRexportBrianRandell1975
+2006,Journal,the yices smt solver,498,Unknown Venue,None,Dutertre B.,article,RRexportBrunoDutertre2006
+2006,Book,a fast linear-arithmetic solver for dpll(t),677,LNCS,10.1007/11817963_11,Dutertre B.,article,RRexportBrunoDutertre2006
+1972,Journal,proof of correctness of data representations,965,Acta Informatica,10.1007/bf00289507,Hoare C.A.R.,article,RRexportC.A.R.Hoare1972
+1972,Journal,proof of correctness of data representations,965,Acta Informatica,10.1007/bf00289507,Hoare C.A.R.,article,RRexportC.A.R.Hoare1972
+2002,InProceedings,reducing the number of clock variables of timed automata,133,Unknown Venue,10.1109/real.1996.563702,Daws C.,article,RRexportC.Daws2002
+2001,Unknown,the static single information form,53,Unknown Venue,None,Ananian C.S.,article,RRexportC.ScottAnanian2001
+1993,Journal,fault detection with multiple observers,82,IEEE/ACM Transactions on Networking,10.1109/90.222906,Wang C.,article,RRexportC.Wang1993
+1962,Journal,kommunikation mit automaten,2143,Unknown Venue,None,Petri C.A.,article,RRexportCarlAdamPetri1962
+2006,Journal,synchronizing behavioural mismatch in software composition,54,LNCS,None,Canal C.,article,RRexportCarlosCanal2006
+2006,Journal,synchronizing behavioural mismatch in software composition,54,LNCS,None,Canal C.,article,RRexportCarlosCanal2006
+2010,InProceedings,automated termination analysis of java bytecode by term rewriting,70,Rewriting Techniques and Applications,10.4230/lipics.rta.2010.259,Otto C.,article,RRexportCarstenOtto2010
+2011,InProceedings,an experience report on an industrial case-study about timed model-based testing with uppaal-tron,7,Unknown Venue,10.1109/icstw.2011.92,Rütz C.,article,RRexportCarstenRütz2011
+2010,InProceedings,a precise memory model for low-level bounded model checking,36,International Conference on Systems,None,Sinz C.,article,RRexportCarstenSinz2010
+2009,InProceedings,formal correctness of a passive testing approach for timed systems,12,"International Conference on Software Testing, Verification and Validation Workshops",10.1109/icstw.2009.34,Andres C.,article,RRexportCesarAndres2009
+2006,InProceedings,automatic test case generation for uml activity diagrams,153,Unknown Venue,10.1145/1138929.1138931,Mingsong C.,article,RRexportChenMingsong2006
+2006,Book,scoped types and aspects for real-time java,32,LNCS,10.1007/11785477_7,Andreae C.,article,RRexportChrisAndreae2006
+2006,Book,scoped types and aspects for real-time java,32,LNCS,10.1007/11785477_7,Andreae C.,article,RRexportChrisAndreae2006
+1998,Book,purely functional data structures,599,Unknown Venue,10.1017/cbo9780511530104,Okasaki C.,article,RRexportChrisOkasaki1998
+2005,Book,essential php security,21,Unknown Venue,None,Shiflett C.,article,RRexportChrisShiflett2005
+2007,Book,generating unit tests from formal proofs,68,LNCS,10.1007/978-3-540-73770-4_10,Engel C.,article,RRexportChristianEngel2007
+2007,InProceedings,a case study implementing features using aspectj,172,Unknown Venue,10.1109/spline.2007.12,Kastner C.,article,RRexportChristianKastner2007
+2007,InProceedings,a case study implementing features using aspectj,172,Unknown Venue,10.1109/spline.2007.12,Kastner C.,article,RRexportChristianKastner2007
+2008,InProceedings,granularity in software product lines,450,Unknown Venue,10.1145/1368088.1368131,Kästner C.,article,RRexportChristianKästner2008
+1997,Book,feature-oriented programming: a fresh look at objects,427,LNCS,10.1007/bfb0053389,Prehofer C.,article,RRexportChristianPrehofer1997
+2005,Book,11 evaluating coverage based testing,16,LNCS,10.1007/11498490_14,Gaston C.,article,RRexportChristopheGaston2005
+2006,Book,symbolic execution techniques for test purpose definition,91,LNCS,10.1007/11754008_1,Gaston C.,article,RRexportChristopheGaston2006
+2006,Journal,achieving communication coverage in testing,12,ACM SIGSOFT Software Engineering Notes,10.1145/1218776.1218786,Mallett C.R.,article,RRexportChristopherRobinson-Mallett2006
+2008,Book,specification-based verification of embedded systems by automated test case generation,5,IFIP International Federation for Information Processing/IFIP,10.1007/978-0-387-09661-2_4,Kirchsteiger C.M.,article,RRexportChristophM.Kirchsteiger2008
+2003,Book,a programming logic for java bytecode programs,23,LNCS,10.1007/10930755_3,Quigley C.L.,article,RRexportClaireL.Quigley2003
+1998,Book,towards automatic distribution of testers for distributed conformance testing,30,IFIP advances in information and communication technology,10.1007/978-0-387-35394-4_22,Jard C.,article,RRexportClaudeJard1998
+2003,Journal,synthesis of distributed testers from true-concurrency models of reactive systems,16,Information and Software Technology,10.1016/s0950-5849(03)00061-2,Jard C.,article,RRexportClaudeJard2003
+1999,Journal,a deadlock detection tool for concurrent java programs,141,Software Practice and Experience,10.1002/(sici)1097-024x(199906)29:7<577::aid-spe246>3.0.co;2-v,Demartini C.,article,RRexportClaudioDemartini1999
+2003,Book,the model-checking kit,37,LNCS,10.1007/3-540-44919-1_29,Schröter C.,article,RRexportClausSchröter2003
+2007,Book,a systemc/tlm semantics in promela and its possible applications,80,LNCS,10.1007/978-3-540-73370-6_14,Traulsen C.,article,RRexportClausTraulsen2007
+2000,Journal,component software: beyond object-oriented programming,13,Unknown Venue,None,Szyperski C.,article,RRexportClemensSzyperski2000
+2008,InProceedings,klee: unassisted and automatic generation of high-coverage tests for complex systems programs,2586,Operating Systems Design and Implementation,10.5555/1855741.1855756,Cadar C.,article,RRexportCristianCadar2008
+2003,Book,experiments with test case generation and runtime analysis,60,LNCS,10.1007/3-540-36498-6_5,Artho C.,article,RRexportCyrilleArtho2003
+2003,Journal,high-level data races,194,Software Testing Verification and Reliability,10.1002/stvr.281,Artho C.,article,RRexportCyrilleArtho2003
+2004,Journal,combining test case generation and runtime verification,91,Theoretical Computer Science,10.1016/j.tcs.2004.11.007,Artho C.,article,RRexportCyrilleArtho2004
+2008,Book,passive testing of timed systems,25,LNCS,10.1007/978-3-540-88387-6_36,Andrés C.,article,RRexportCésarAndrés2008
+2009,InProceedings,passive testing of stochastic timed systems,14,"International Conference on Software Testing, Verification, and Validation",10.1109/icst.2009.35,Andrés C.,article,RRexportCésarAndrés2009
+2013,Unknown,verification based on unfoldings of petri nets with read arcs,4,HAL (Le Centre pour la Communication Scientifique Directe),None,Rodríguez C.,article,RRexportCésarRodríguez2013
+1997,Journal,composition validation and subjectivity in genvoca generators,175,IEEE Transactions on Software Engineering,10.1109/32.585497,Batory D.,article,RRexportD.Batory1997
+2002,InProceedings,automatic generation of tests for timing constraints from requirements,73,Unknown Venue,10.1109/words.1997.609955,Clarke D.,article,RRexportD.Clarke2002
+2002,InProceedings,automatic test generation for the analysis of a real-time system: case study,30,Unknown Venue,10.1109/rttas.1997.601349,Clarke D.,article,RRexportD.Clarke2002
+1985,Book,on the development of reactive systems,837,Springer eBooks,10.1007/978-3-642-82453-1_17,Harel D.,article,RRexportD.Harel1985
+1997,Journal,executable object modeling with statecharts,537,Computer,10.1109/2.596624,Harel D.,article,RRexportD.Harel1997
+2006,InProceedings,formal verification of systemc designs using a petri-net based representation,93,Unknown Venue,10.1109/date.2006.244076,Karlsson D.,article,RRexportD.Karlsson2006
+2005,InProceedings,formal verification of systemc by automatic hardware/software partitioning,119,Unknown Venue,10.1109/memcod.2005.1487900,Kroening D.,article,RRexportD.Kroening2005
+1983,Journal,automatic generation of random self-checking test cases,218,IBM Systems Journal,10.1147/sj.223.0229,Bird D.L.,article,RRexportD.L.Bird1983
+1996,Journal,principles and methods of testing finite state machines-a survey,1200,Proceedings of the IEEE,10.1109/5.533956,Lee D.,article,RRexportD.Lee1996
+1996,Journal,conformance testing of protocols specified as communicating finite state machines-a guided random walk based approach,89,IEEE Transactions on Communications,10.1109/26.494307,Lee D.,article,RRexportD.Lee1996
+2002,InProceedings,conformance testing of protocols specified as communicating fsms,26,Unknown Venue,10.1109/infcom.1993.253242,Lee D.,article,RRexportD.Lee2002
+2002,InProceedings,passive testing and applications to network management,117,Unknown Venue,10.1109/icnp.1997.643699,Lee D.,article,RRexportD.Lee2002
+2003,InProceedings,a formal approach for passive testing of protocol data portions,66,Unknown Venue,10.1109/icnp.2002.1181393,Lee D.,article,RRexportD.Lee2003
+2006,Journal,network protocol system monitoring: a formal approach with passive testing,54,IEEE/ACM Transactions on Networking,10.1109/tnet.2006.872572,Lee D.,article,RRexportD.Lee2006
+2002,Journal,a probabilistic extension of uml statecharts: specification and verification,9,CTIT technical report series,None,Jansen D.,article,RRexportD.N.Jansen2002
+2004,Journal,software fault interactions and implications for software testing,769,IEEE Transactions on Software Engineering,10.1109/tse.2004.24,Kuhn D.,article,RRexportD.R.Kuhn2004
+2011,Book,verification of software product lines with delta-oriented slicing,38,LNCS,10.1007/978-3-642-18070-5_5,Bruns D.,article,RRexportDanielBruns2011
+1996,Book,coverage-directed test generation using symbolic techniques,89,LNCS,10.1007/bfb0031805,Geist D.,article,RRexportDanielGeist1996
+2005,InProceedings,hw/sw co-verification of a risc cpu using bounded model checking,7,Proceedings,10.1109/mtv.2005.12,Grosse D.,article,RRexportDanielGrosse2005
+2004,InProceedings,checkers for systemc designs,27,Unknown Venue,10.1109/memcod.2004.1459851,Große D.,article,RRexportDanielGroße2004
+2008,Book,measuring the quality of a systemc testbench by using code coverage techniques,6,Lecture notes in electrical engineering,10.1007/978-1-4020-8297-9_6,Große D.,article,RRexportDanielGroße2008
+2006,InProceedings,hw/sw co-verification of embedded systems using bounded model checking,53,Unknown Venue,10.1145/1127908.1127920,Groβe D.,article,RRexportDanielGroβe2006
+2003,Book,alloy: a logical modelling language,30,LNCS,10.1007/3-540-44880-2_1,Jackson D.,article,RRexportDanielJackson2003
+2009,InProceedings,a verification-centric software development process for java,7,Unknown Venue,10.1109/qsic.2009.18,Zimmerman D.M.,article,RRexportDanielM.Zimmerman2009
+2003,Book,external uniqueness is unique enough,169,LNCS,10.1007/978-3-540-45070-2_9,Clarke D.,article,RRexportDaveClarke2003
+2010,InProceedings,hats: a formal software product line engineering methodology,8,Formal Methods,None,Clarke D.,article,RRexportDaveClarke2010
+2010,InProceedings,abstract delta modeling,106,Unknown Venue,10.1145/1868294.1868298,Clarke D.,article,RRexportDaveClarke2010
+2011,Book,modeling spatial and temporal variability with the hats abstract behavioral modeling language,45,LNCS,10.1007/978-3-642-21455-4_13,Clarke D.,article,RRexportDaveClarke2011
+2010,Journal,automated analysis of feature models 20 years later: a literature review,1135,Information Systems,10.1016/j.is.2010.01.001,Benavides D.,article,RRexportDavidBenavides2010
+2005,Journal,simplify: a theorem prover for program checking,785,Journal of the ACM,10.1145/1066100.1066102,Detlefs D.,article,RRexportDavidDetlefs2005
+2009,Book,coinductive type systems for object-oriented languages,34,LNCS,10.1007/978-3-642-03013-0_2,Ancona D.,article,RRexportDavideAncona2009
+2009,InProceedings,an idealized coinductive type system for imperative object-oriented programs,0,Italian Conference on Theoretical Computer Science,None,Ancona D.,article,RRexportDavideAncona2009
+2011,Journal,idealized coinductive type systems for imperative object-oriented programs,22,RAIRO - Theoretical Informatics and Applications,10.1051/ita/2011009,Ancona D.,article,RRexportDavideAncona2011
+2008,InProceedings,saner: composing static and dynamic analysis to validate sanitization in web applications,387,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,10.1109/sp.2008.22,Balzarotti D.,article,RRexportDavideBalzarotti2008
+2007,InProceedings,a formal road from institutional norms to organizational structures,11,Unknown Venue,10.1145/1329125.1329234,Grossi D.,article,RRexportDavideGrossi2007
+1998,Journal,on the bisimulation proof method,225,Mathematical Structures in Computer Science,10.1017/s0960129598002527,SANGIORGI D.,article,RRexportDAVIDESANGIORGI1998
+2003,Journal,object ownership and containment,141,Unknown Venue,None,Clarke D.G.,article,RRexportDavidGerardClarke2003
+1996,InProceedings,executable object modeling with statecharts,124,Unknown Venue,10.5555/227726.227770,Harel D.,article,RRexportDavidHarel1996
+1996,Journal,the statemate semantics of statecharts,1057,ACM Transactions on Software Engineering and Methodology,10.1145/235321.235322,Harel D.,article,RRexportDavidHarel1996
+2000,Book,dynamic logic,1528,Unknown Venue,None,Harel D.,article,RRexportDavidHarel2000
+2006,Book,message sequence charts,171,Kluwer Academic Publishers eBooks,10.1007/0-306-48738-1_4,Harel D.,article,RRexportDavidHarel2006
+2005,Journal,a formal approach to component adaptation and composition,23,Unknown Venue,None,Hemer D.,article,RRexportDavidHemer2005
+2009,Book,formal techniques for distributed systems,148,LNCS,10.1007/978-3-642-02138-1,Lee D.,article,RRexportDavidLee2009
+1992,Journal,tabular representation of relations,120,Unknown Venue,None,Parnas D.L.,article,RRexportDavidLorgeParnas1992
+2005,Book,concurrency and automata on infinite sequences,1910,Theoretical Computer Science,10.1007/bfb0017309,Park D.,article,RRexportDavidPark2005
+2005,Book,esc/java2: uniting esc/java and jml,255,LNCS,10.1007/978-3-540-30569-9_6,Cok D.R.,article,RRexportDavidR.Cok2005
+1976,InProceedings,the economics of software quality assurance,65,Unknown Venue,10.1145/1499799.1499863,Alberts D.S.,article,RRexportDavidS.Alberts1976
+1987,InProceedings,self: the power of simplicity,932,Unknown Venue,10.1145/38765.38828,Ungar D.,article,RRexportDavidUngar1987
+2001,Journal,hoare logic for java in isabelle/hol,92,Concurrency and Computation Practice and Experience,10.1002/cpe.598,Oheimb D.V.,article,RRexportDavidvonOheimb2001
+2009,Journal,a novel approach to generate test cases from uml activity diagrams,115,The Journal of Object Technology,10.5381/jot.2009.8.3.a1,Kundu D.,article,RRexportDebasishKundu2009
+1992,InProceedings,specification-based test oracles for reactive systems,236,Unknown Venue,10.1145/143062.143100,Richardson D.J.,article,RRexportDebraJ.Richardson1992
+2007,InProceedings,model-driven test generation for system level validation,28,Unknown Venue,10.1109/hldvt.2007.4392792,Mathaikutty D.A.,article,RRexportDeepakA.Mathaikutty2007
+2010,Book,a provably correct stackless intermediate representation for java bytecode,27,LNCS,10.1007/978-3-642-17164-2_8,Demange D.,article,RRexportDelphineDemange2010
+2012,InProceedings,global and local testing from message sequence charts,6,Unknown Venue,10.1145/2245276.2231987,Longuet D.,article,RRexportDelphineLonguet2012
+2005,Book,a theory of distributed objects,112,Springer eBooks,10.1007/b138812,Caromel D.,article,RRexportDenisCaromel2005
+2002,Unknown,probabilistic extensions of semantical models,62,Unknown Venue,None,Hartog D.J.I.,article,RRexportdenJeremyIanHartog2002
+2003,Journal,algebraic theory of probabilistic and nondeterministic processes,54,The Journal of Logic and Algebraic Programming,10.1016/s1567-8326(02)00040-1,Cazorla D.,article,RRexportDiegoCazorla2003
+2004,Journal,tree ssa a new optimization infrastructure for gcc,56,Unknown Venue,None,Novillo D.,article,RRexportDiegoNovillo2004
+2000,Book,pomsets for local trace languages,20,LNCS,10.1007/3-540-44618-4_31,Kuske D.,article,RRexportDietrichKuske2000
+2008,Journal,compositional verification of sequential programs with procedures,31,Information and Computation,10.1016/j.ic.2008.03.003,Gurov D.,article,RRexportDilianGurov2008
+1995,Book,interoperation of object-oriented applications,19,Prentice Hall International (UK) Ltd. eBooks,None,Konstantas D.,article,RRexportDimitriKonstantas1995
+1995,Journal,generating test cases for real-time systems from logic specifications,143,ACM Transactions on Computer Systems,10.1145/210223.210226,Mandrioli D.,article,RRexportDinoMandrioli1995
+2013,InProceedings,model-based development and verification of control software for electric vehicles,10,Unknown Venue,10.1145/2463209.2488853,Goswami D.,article,RRexportDipGoswami2013
+2004,Book,the blast query language for software verification,78,LNCS,10.1007/978-3-540-27864-1_2,Beyer D.,article,RRexportDirkBeyer2004
+2004,InProceedings,generating tests from counterexamples,203,Unknown Venue,10.5555/998675.999437,Beyer D.,article,RRexportDirkBeyer2004
+2008,InProceedings,program analysis with dynamic precision adjustment,110,Unknown Venue,10.1109/ase.2008.13,Beyer D.,article,RRexportDirkBeyer2008
+2009,Unknown,cpachecker: a tool for configurable software verification,11,arXiv (Cornell University),10.48550/arxiv.0902.0019,Beyer D.,article,RRexportDirkBeyer2009
+2005,Journal,using maximality-based labeled transition system model for concurrency logic verification,9,The International Arab Journal of Information Technology,None,Saïdouni D.E.,article,RRexportDjamel-EddineSaïdouni2005
+2008,InProceedings,focove: formal concurrency verification environment for complex systems,9,AIP conference proceedings,10.1063/1.2953008,Saïdouni D.E.,article,RRexportDjamelEddineSaïdouni2008
+2008,InProceedings,aggregation of transitions in marking graph generation based on maximality semantics for petri nets,16,Electronic workshops in computing,10.14236/ewic/vecos2008.1,Saïdouni D.E.,article,RRexportDjamelEddineSaïdouni2008
+2001,Journal,failure modes in medical device software: an analysis of 15 years of recall data,198,International Journal of Reliability Quality and Safety Engineering,10.1142/s021853930100058x,WALLACE D.R.,article,RRexportDOLORESR.WALLACE2001
+1977,Journal,fast pattern matching in strings,2907,SIAM Journal on Computing,10.1137/0206024,Knuth D.E.,article,RRexportDonaldE.Knuth1977
+2005,Book,"feature models, grammars, and propositional formulas",1166,LNCS,10.1007/11554844_3,Batory D.,article,RRexportDonBatory2005
+2008,Journal,modularizing theorems for software product lines: the jbook case study,35,JUCS - Journal of Universal Computer Science,None,Batory D.S.,article,RRexportDonS.Batory2008
+2006,Journal,an intermediate metamodel with scenarios and resources for generating performance models from uml designs,116,Software & Systems Modeling,10.1007/s10270-006-0026-8,Petriu D.B.,article,RRexportDorinB.Petriu2006
+2000,Book,the temporal rover and the atg rover,280,LNCS,10.1007/10722468_19,Drusinsky D.,article,RRexportDoronDrusinsky2000
+2006,Book,"modeling and verification using uml statecharts: a working guide to reactive system design, runtime monitoring and execution-based model checking",114,Unknown Venue,None,Drusinsky D.,article,RRexportDoronDrusinsky2006
+1979,Unknown,heuristics for determining equivalence of program mutations,116,Unknown Venue,10.21236/ada071795,Baldwin D.,article,RRexportDouglasBaldwin1979
+2008,Book,using dynamic symbolic execution to improve deductive verification,9,LNCS,10.1007/978-3-540-85114-1_4,Vanoverberghe D.,article,RRexportDriesVanoverberghe2008
+2002,Book,stg: a symbolic test generation tool,93,LNCS,10.1007/3-540-46002-0_34,Clarke D.,article,RRexportDuncanClarke2002
+1982,Journal,using branching time temporal logic to synthesize synchronization skeletons,664,Science of Computer Programming,10.1016/0167-6423(83)90017-5,Emerson E.,article,RRexportE.AllenEmerson1982
+1990,Journal,temporal and modal logic,851,Unknown Venue,None,Emerson E.A.,article,RRexportE.AllenEmerson1990
+1996,Journal,model checking,7141,Unknown Venue,None,Clarke E.,article,RRexportE.Clarke1996
+2002,Journal,product planning in quality function deployment using a combined analytic network process and goal programming approach,514,Computers & Industrial Engineering,10.1016/s0360-8352(02)00191-2,Karsak E.,article,RRexportE.ErtugrulKarsak2002
+1986,Journal,automatic verification of finite-state concurrent systems using temporal logic specifications,3589,ACM Transactions on Programming Languages and Systems,10.1145/5397.5399,Clarke E.M.,article,RRexportE.M.Clarke1986
+2008,InProceedings,model-based testing of automotive systems,189,"International Conference on Software Testing, Verification, and Validation",10.1109/icst.2008.45,Bringmann E.,article,RRexportEckardBringmann2008
+2001,Book,testing transition systems: an annotated bibliography,154,LNCS,10.1007/3-540-45510-8_9,Brinksma E.,article,RRexportEdBrinksma2001
+2001,Book,testing transition systems an annotated bibliography,154,LNCS,10.1007/3-540-45510-8_9,Brinksma E.,article,RRexportEdBrinksma2001
+2002,Journal,construction partnering process and associated critical success factors: quantitative investigation,311,Journal of Management in Engineering,10.1061/(asce)0742-597x(2002)18:4(194),Cheng E.W.L.,article,RRexportEddieW.L.Cheng2002
+2004,Book,a tool for checking ansi-c programs,1374,LNCS,10.1007/978-3-540-24730-2_15,Clarke E.,article,RRexportEdmundClarke2004
+1999,Book,model checking,4385,Unknown Venue,None,Clarke E.M.,article,RRexportEdmundM.Clarke1999
+1979,Journal,programming language constructs for which it is impossible to obtain good hoare axiom systems,168,Journal of the ACM,10.1145/322108.322121,Clarke E.M.,article,RRexportEdmundMelsonClarke1979
+1975,Journal,"guarded commands, nondeterminacy and formal derivation of programs",1908,Communications of the ACM,10.1145/360933.360975,Dijkstra E.W.,article,RRexportEdsgerW.Dijkstra1975
+2006,Journal,an asynchronous communication model for distributed concurrent objects,170,Software & Systems Modeling,10.1007/s10270-006-0011-2,Johnsen E.B.,article,RRexportEinarBrochJohnsen2006
+2008,Book,an object-oriented component model for heterogeneous nets,10,LNCS,10.1007/978-3-540-92188-2_11,Johnsen E.B.,article,RRexportEinarBrochJohnsen2008
+2009,Journal,intra-object versus inter-object: concurrency and reasoning in creol,16,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2009.07.007,Johnsen E.B.,article,RRexportEinarBrochJohnsen2009
+2010,Book,dynamic resource reallocation between deployment components,24,LNCS,10.1007/978-3-642-16901-4_42,Johnsen E.B.,article,RRexportEinarBrochJohnsen2010
+2011,Book,validating timed models of deployment components with parametric concurrency,18,LNCS,10.1007/978-3-642-18070-5_4,Johnsen E.B.,article,RRexportEinarBrochJohnsen2011
+2007,Journal,"task automata: schedulability, decidability and undecidability",162,Information and Computation,10.1016/j.ic.2007.01.009,Fersman E.,article,RRexportElenaFersman2007
+2010,Journal,a uml and colored petri nets integrated modeling and analysis approach using graph transformation,48,The Journal of Object Technology,10.5381/jot.2010.9.4.a2,Kerkouche E.,article,RRexportElhillaliKerkouche2010
+2008,Book,costa: design and implementation of a cost and termination analyzer for java bytecode,84,LNCS,10.1007/978-3-540-92188-2_5,Albert E.,article,RRexportElviraAlbert2008
+2010,Journal,closed-form upper bounds in static cost analysis,164,Journal of Automated Reasoning,10.1007/s10817-010-9174-1,Albert E.,article,RRexportElviraAlbert2010
+2011,Book,simulating concurrent behaviors with worst-case cost bounds,24,LNCS,10.1007/978-3-642-21437-0_27,Albert E.,article,RRexportElviraAlbert2011
+2005,Journal,a passive testing approach based on invariants: application to the wap,106,Computer Networks,10.1016/j.comnet.2004.09.009,Bayse E.,article,RRexportEmmanuelBayse2005
+2006,Book,on the construction of pullbacks for safe petri nets,13,LNCS,10.1007/11767589_10,Fabre E.,article,RRexportEricFabre2006
+2009,Journal,behavioral interface description of an object-oriented language with futures and promises ⋆,32,The Journal of Logic and Algebraic Programming,10.1016/j.jlap.2009.01.001,Ábrahám E.,article,RRexportErikaÁbrahám2009
+2009,Book,vcc: a practical system for verifying concurrent c,532,LNCS,10.1007/978-3-642-03359-9_2,Cohen E.,article,RRexportErnieCohen2009
+2010,Book,local verification of global invariants in concurrent programs,72,LNCS,10.1007/978-3-642-14295-6_42,Cohen E.,article,RRexportErnieCohen2010
+2006,Journal,nontermination inference of logic programs,31,ACM Transactions on Programming Languages and Systems,10.1145/1119479.1119481,Payet E.,article,RRexportEtiennePayet2006
+2004,InProceedings,enforceable security policies,45,Unknown Venue,10.1109/fits.2003.1264930,Schneider F.,article,RRexportF.B.Schneider2004
+2003,Book,reification of executable test scripts in formal specification-based test generation: the java card transaction mechanism case study,19,LNCS,10.1007/978-3-540-45236-2_42,Bouquet F.,article,RRexportFabriceBouquet2003
+2012,Book,stochastic petri nets: an introduction to the theory,266,Unknown Venue,None,Bause F.,article,RRexportFalkoBause2012
+2010,Book,stranger: an automata-based string analysis tool for php,142,LNCS,10.1007/978-3-642-12002-2_13,Yu F.,article,RRexportFangYu2010
+2006,Book,a temporal calculus of communicating systems,374,Springer eBooks,10.1007/bfb0039073,Moller F.,article,RRexportFaronMoller2006
+2009,Journal,precise null-pointer analysis,35,Software & Systems Modeling,10.1007/s10270-009-0132-5,Spoto F.,article,RRexportFaustoSpoto2009
+2012,Book,automata learning through counterexample guided abstraction refinement,131,LNCS,10.1007/978-3-642-32759-9_4,Aarts F.,article,RRexportFidesAarts2012
+2010,Journal,formal verification of a modern sat solver by shallow embedding into isabelle/hol,55,Theoretical Computer Science,10.1016/j.tcs.2010.09.014,Marić F.,article,RRexportFilipMarić2010
+2006,Book,handbook of constraint programming,1542,Foundations of artificial intelligence,10.1016/s1574-6526(06)x8001-x,Rossi F.,article,RRexportFrancescaRossi2006
+2005,Journal,a framework for the functional verification of systemc models,23,International Journal of Parallel Programming,10.1007/s10766-005-8908-x,Bruschi F.,article,RRexportFrancescoBruschi2005
+2006,Book,an event driven approach to norms in artificial institutions,21,LNCS,10.1007/11775331_10,Viganò F.,article,RRexportFrancescoViganò2006
+2006,Journal,structural translation from time petri nets to timed automata,112,Journal of Systems and Software,10.1016/j.jss.2005.12.021,Cassez F.,article,RRexportFranckCassez2006
+2007,Book,timed control with observation based and stuttering invariant strategies,39,LNCS,10.1007/978-3-540-75596-8_15,Cassez F.,article,RRexportFranckCassez2007
+2010,Book,formal methods for components and objects,9,LNCS,10.1007/978-3-642-17071-3,Boer F.S.,article,RRexportFrankS.Boer2010
+2007,Book,a complete guide to the future,178,LNCS,10.1007/978-3-540-71316-6_22,Boer F.S.D.,article,RRexportFrankS.deBoer2007
+2010,Book,dating concurrent objects: real-time modeling and schedulability analysis,13,LNCS,10.1007/978-3-642-15375-4_1,Boer F.S.D.,article,RRexportFrankS.deBoer2010
+2011,InProceedings,why3: shepherd your herd of provers,190,HAL (Le Centre pour la Communication Scientifique Directe),None,Bobot F.,article,RRexportFrançoisBobot2011
+2007,Book,state space abstractions for time petri nets,17,Chapman & Hall/CRC computer and information science series,10.1201/9781420011746.pt6,Vernadat F.,article,RRexportFrançoisVernadat2007
+2000,Journal,enforceable security policies,1260,ACM Transactions on Information and System Security,10.1145/353323.353382,Schneider F.B.,article,RRexportFredB.Schneider2000
+2006,InProceedings,proving the absence of rtsj related runtime errors through data flow analysis,10,Unknown Venue,10.1145/1167999.1168025,Siebert F.,article,RRexportFridtjofSiebert2006
+2002,Journal,virtual time and global states of distributed systems,1270,Unknown Venue,None,Mattern F.,article,RRexportFriedemannMattern2002
+1998,Book,case studies in meta-level theorem proving,20,LNCS,10.1007/bfb0055152,Henke F.W.V.,article,RRexportFriedrichW.vonHenke1998
+1994,Journal,forecasting foreign exchange rates: a comparative evaluation of ahp,26,Omega,10.1016/0305-0483(94)90031-0,Ülengin F.,article,RRexportFÜlengin1994
+2005,Journal,multicriteria decision making for enhanced perception-based multimedia communication,13,IEEE Transactions on Systems Man and Cybernetics - Part A Systems and Humans,10.1109/tsmca.2005.851281,Ghinea G.,article,RRexportG.Ghinea2005
+1970,Journal,a method for the design of fault detection experiments,296,IEEE Transactions on Computers,10.1109/t-c.1970.222975,Gonenc G.,article,RRexportG.Gonenc1970
+2004,InProceedings,generating efficient test sets with a model checker,96,Software Engineering and Formal Methods,10.1109/sefm.2004.21,Hamon G.,article,RRexportG.Hamon2004
+1997,Journal,the model checker spin,3787,IEEE Transactions on Software Engineering,10.1109/32.588521,Holzmann G.,article,RRexportG.J.Holzmann1997
+1988,Journal,a timed model for communicating sequential processes,284,Theoretical Computer Science,10.1016/0304-3975(88)90030-8,Reed G.,article,RRexportG.M.Reed1988
+2004,Book,graph transformations in omg’s model-driven architecture,12,LNCS,10.1007/978-3-540-25959-6_18,Karsai G.,article,RRexportGaborKarsai2004
+2009,Book,model-based design for embedded systems,95,"Computational analysis, synthesis, and design of dynamic models series",10.1201/9781420067859,Nicolescu G.,article,RRexportGabrielaNicolescu2009
+2006,Journal,timers for distributed systems,41,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2006.07.013,Ciobanu G.,article,RRexportGabrielCiobanu2006
+2008,Book,modelling and verification of timed interaction and migration,19,Fundamental Approaches to Software Engineering,10.1007/978-3-540-78743-3_16,Ciobanu G.,article,RRexportGabrielCiobanu2008
+2011,Book,timed migration and interaction with access permissions,14,LNCS,10.1007/978-3-642-21437-0_23,Ciobanu G.,article,RRexportGabrielCiobanu2011
+2011,Journal,flexible software architecture and language for mobile agents,30,Concurrency and Computation Practice and Experience,10.1002/cpe.1854,Ciobanu G.,article,RRexportGabrielCiobanu2011
+2011,Journal,timed mobility in process algebra and petri nets,24,The Journal of Logic and Algebraic Programming,10.1016/j.jlap.2011.05.002,Ciobanu G.,article,RRexportGabrielCiobanu2011
+1999,Book,jml: a notation for detailed design,426,Springer eBooks,10.1007/978-1-4615-5229-1_12,Leavens G.T.,article,RRexportGaryT.Leavens1999
+2004,Journal,how the design of jml accommodates both runtime assertion checking and formal verification,190,Science of Computer Programming,10.1016/j.scico.2004.05.015,Leavens G.T.,article,RRexportGaryT.Leavens2004
+2006,Journal,design by contract with jml,195,Unknown Venue,None,Leavens G.T.,article,RRexportGaryT.Leavens2006
+2007,InProceedings,sound and precise analysis of web applications for injection vulnerabilities,354,Unknown Venue,10.1145/1250734.1250739,Wassermann G.,article,RRexportGaryWassermann2007
+2008,InProceedings,static detection of cross-site scripting vulnerabilities,385,Unknown Venue,10.1145/1368088.1368112,Wassermann G.,article,RRexportGaryWassermann2008
+1996,Book,breaking and fixing the needham-schroeder public-key protocol using fdr,832,LNCS,10.1007/3-540-61042-1_43,Lowe G.,article,RRexportGavinLowe1996
+2005,Book,16 ttcn-3,3,LNCS,10.1007/11498490_21,Din G.,article,RRexportGeorgeDin2005
+2003,Book,"spin model checker, the: primer and reference manual",1999,Addison-Wesley Professional eBooks,None,Holzmann G.,article,RRexportGerardHolzmann2003
+2004,Book,a tutorial on uppaal,1536,LNCS,10.1007/978-3-540-30080-9_7,Behrmann G.,article,RRexportGerdBehrmann2004
+1996,Book,hybrid systems iii,238,LNCS,10.1007/bfb0020931,Goos G.,article,RRexportGerhardGoos1996
+2006,Book,"mobius: mobility, ubiquity, security objectives and progress report",93,Unknown Venue,None,Barthe G.,article,RRexportGillesBarthe2006
+2007,Book,mobius mobility ubiquity security,11,Trustworthy Global Computing,10.1007/978-3-540-75336-0_2,Barthe G.,article,RRexportGillesBarthe2007
+1991,Book,testing against formal specifications: a theoretical view,83,LNCS,10.1007/3540539816_63,Bernot G.,article,RRexportGillesBernot1991
+2001,Journal,constraint-based deductive model checking,77,International Journal on Software Tools for Technology Transfer,10.1007/s100090100049,Delzanno G.,article,RRexportGiorgioDelzanno2001
+1979,Book,the art of software testing,3052,Unknown Venue,None,Myers G.J.,article,RRexportGlenfordJ.Myers1979
+2005,Book,"petri nets, morphisms and compositionality",17,Springer eBooks,10.1007/bfb0016226,Winskel G.,article,RRexportGlynnWinskel2005
+2008,Book,slr: path-sensitive analysis through infeasible-path detection and syntactic language refinement,36,LNCS,10.1007/978-3-540-69166-2_16,Balakrishnan G.,article,RRexportGogulBalakrishnan2008
+2005,InProceedings,aspect-oriented programming and modular reasoning,283,Unknown Venue,10.1145/1062455.1062482,Kiczales G.,article,RRexportGregorKiczales2005
+2006,Journal,efficient path conditions in dependence graphs for software safety analysis,141,ACM Transactions on Software Engineering and Methodology,10.1145/1178625.1178628,Snelting G.,article,RRexportGregorSnelting2006
+2008,Book,testing systems specified as partial order input/output automata,37,LNCS,10.1007/978-3-540-68524-1_13,Bochmann G.v.,article,RRexportGregorv.Bochmann2008
+1997,Book,"handbook of formal languages, vol 3: beyond words",158,Springer eBooks,None,Rozenberg G.,article,RRexportGrzegorzRozenberg1997
+2005,Journal,test de systèmes réactifs non réceptifs,13,Journal Européen des Systèmes Automatisés,10.3166/jesa.39.255-270,Lestiennes G.,article,RRexportGrégoryLestiennes2005
+2006,Journal,optimization of wastewater treatment alternative selection by hierarchy grey relational analysis,224,Journal of Environmental Management,10.1016/j.jenvman.2005.12.024,Zeng G.,article,RRexportGuangmingZeng2006
+2007,Journal,substantive and procedural norms in normative multiagent systems,54,Journal of Applied Logic,10.1016/j.jal.2007.06.006,Boella G.,article,RRexportGuidoBoella2007
+1986,Book,actors: a model of concurrent computation in distributed systems,2299,Unknown Venue,None,Agha G.,article,RRexportGulAgha1986
+1986,Book,actors,1301,Unknown Venue,10.7551/mitpress/1086.001.0001,Agha G.,article,RRexportGulAgha1986
+2006,Book,message confidentiality testing of security protocols: passive monitoring and active checking,10,LNCS,10.1007/11754008_23,Shu G.,article,RRexportGuoqiangShu2006
+1995,Journal,interpretive case studies in is research: nature and method,3709,European Journal of Information Systems,10.1057/ejis.1995.9,Walsham G.,article,RRexportGWalsham1995
+1999,Book,testing of communicating systems,137,IFIP advances in information and communication technology,10.1007/978-0-387-35567-2,Csopaki G.,article,RRexportGyulaCsopaki1999
+2003,Book,applying mutation analysis to sdl specifications,21,LNCS,10.1007/3-540-45075-0_16,Kovács G.,article,RRexportGáborKovács2003
+2012,Journal,transforming data* with dotty format to aggregate region automaton,3,International Journal of Computer Applications,10.5120/4647-6721,Hachichi H.,article,RRexportH.Hachichi2012
+2004,Journal,compositional based testing with ioco,0,Unknown Venue,None,Bijl H.V.D.,article,RRexportH.M.vanderBijl2004
+1991,Journal,a test sequence selection method for protocol testing,113,IEEE Transactions on Communications,10.1109/26.81739,Ural H.,article,RRexportH.Ural1991
+2009,InProceedings,cdx: a family of real-time java benchmarks,5,Unknown Venue,None,Jeff H.,article,RRexportHagelbergJeff2009
+2010,InProceedings,timing analysis and optimization of flexray dynamic segment,30,Unknown Venue,10.1109/cit.2010.329,Zeng H.,article,RRexportHaiboZeng2010
+2012,Book,towards model-based testing of electronic funds transfer systems,13,LNCS,10.1007/978-3-642-29320-7_17,Asaadi H.R.,article,RRexportHamidRezaAsaadi2012
+2010,InProceedings,automated conformance verification of hybrid systems,32,Unknown Venue,10.1109/qsic.2010.53,Brandl H.,article,RRexportHaraldBrandl2010
+2005,Journal,modular verification of open features using three-valued model checking,52,Automated Software Engineering,10.1007/s10515-005-2643-9,Li H.C.,article,RRexportHarryC.Li2005
+2007,Book,an efsm-based passive fault detection approach,29,LNCS,10.1007/978-3-540-73066-8_23,Ural H.,article,RRexportHasanUral2007
+2007,InProceedings,an improved approach to passive testing of fsm-based systems,6,Unknown Venue,10.1109/ast.2007.1,Ural H.,article,RRexportHasanUral2007
+2008,Book,non-termination checking for imperative programs,58,Tests and Proofs,10.1007/978-3-540-79124-9_11,Velroyen H.,article,RRexportHelgaVelroyen2008
+2010,InProceedings,timed moore automata: test data generation and model checking,22,Unknown Venue,10.1109/icst.2010.60,Löding H.,article,RRexportHelgeLöding2010
+1996,Book,deductive model checking,51,LNCS,10.1007/3-540-61474-5_70,Sipma H.B.,article,RRexportHennyB.Sipma1996
+2005,Book,timed testing with torx,47,LNCS,10.1007/11526841_13,Bohnenkamp H.,article,RRexportHenrikBohnenkamp2005
+2005,Book,timed testing with torx,47,LNCS,10.1007/11526841_13,Bohnenkamp H.,article,RRexportHenrikBohnenkamp2005
+2014,Book,distributed testing of concurrent systems: vector clocks to the rescue,6,LNCS,10.1007/978-3-319-10882-7_22,León H.P.D.,article,RRexportHernánPonce-de-León2014
+2015,Book,building bridges between sets of partial orders,5,LNCS,10.1007/978-3-319-15579-1_11,León H.P.D.,article,RRexportHernánPonce-de-León2015
+2012,Book,conformance relations for labeled event structures,14,LNCS,10.1007/978-3-642-30473-6_8,León H.P.D.,article,RRexportHernánPoncedeLeón2012
+2013,Book,unfolding-based test selection for concurrent conformance,15,LNCS,10.1007/978-3-642-41707-8_7,León H.P.D.,article,RRexportHernánPoncedeLeón2013
+2014,Journal,model-based testing for concurrent systems with labelled event structures,10,Software Testing Verification and Reliability,10.1002/stvr.1543,León H.P.D.,article,RRexportHernánPoncedeLeón2014
+2008,Journal,model-driven validation of systemc designs,12,EURASIP Journal on Embedded Systems,10.1155/2008/519474,Patel H.D.,article,RRexportHirenDPatel2008
+2013,InProceedings,verifying systemc using an intermediate verification language and symbolic simulation,48,Unknown Venue,10.1145/2463209.2488877,Le H.M.,article,RRexportHoangM.Le2013
+1997,Journal,software unit test coverage and adequacy,1227,ACM Computing Surveys,10.1145/267580.267590,Zhu H.,article,RRexportHongZhu1997
+2004,Book,rule-based runtime verification,370,LNCS,10.1007/978-3-540-24622-0_5,Barringer H.,article,RRexportHowardBarringer2004
+1998,Book,"open/cæsar: an open software architecture for verification, simulation, and testing",161,LNCS,10.1007/bfb0054165,Garavel H.,article,RRexportHubertGaravel1998
+2001,Journal,"system design of a cc-numa multiprocessor architecture using formal specification, model-checking, co-simulation, and test generation",29,International Journal on Software Tools for Technology Transfer,10.1007/s100090100044,Garavel H.,article,RRexportHubertGaravel2001
+2009,InProceedings,verification of an industrial systemc/tlm model using lotos and cadp,34,Unknown Venue,10.1109/memcod.2009.5185377,Garavel H.,article,RRexportHubertGaravel2009
+2009,InProceedings,verification of an industrial systemc/tlm model using lotos and cadp,34,Unknown Venue,10.1109/memcod.2009.5185377,Garavel H.,article,RRexportHubertGaravel2009
+2012,Journal,cadp 2011: a toolbox for the construction and analysis of distributed processes,262,International Journal on Software Tools for Technology Transfer,10.1007/s10009-012-0244-z,Garavel H.,article,RRexportHubertGaravel2012
+2001,Journal,automatic test generation from statecharts using model checking,58,Unknown Venue,None,Hong H.S.,article,RRexportHyoungSeokHong2001
+2002,Book,a temporal logic based theory of test coverage and generation,144,LNCS,10.1007/3-540-46002-0_23,Hong H.S.,article,RRexportHyoungSeokHong2002
+2003,InProceedings,data flow testing as model checking,92,International Conference on Software Engineering,10.5555/776816.776844,Hong H.S.,article,RRexportHyoungSeokHong2003
+2004,Book,using smart connectors to resolve partial matching problems in cots component acquisition,27,LNCS,10.1007/978-3-540-24774-6_5,Min H.G.,article,RRexportHyunGiMin2004
+1986,Book,refusal testing,74,LNCS,10.1007/3-540-16761-7_80,Phillips I.,article,RRexportIainPhillips1986
+1987,Journal,refusal testing,152,Theoretical Computer Science,10.1016/0304-3975(87)90117-4,Phillips I.,article,RRexportIainPhillips1987
+2006,Book,software engineering: (update) (8th edition) (international computer science),64,"Addison-Wesley Longman Publishing Co., Inc. eBooks",None,Sommerville I.,article,RRexportIanSommerville2006
+2005,Book,free-algebra models for the π-calculus,8,LNCS,10.1007/978-3-540-31982-5_10,Stark I.,article,RRexportIanStark2005
+2002,Unknown,model‐based software testing,232,Encyclopedia of Software Engineering,10.1002/0471028959.sof207,El‐Far I.K.,article,RRexportIbrahimK.El‐Far2002
+2002,Book,unitesk test suite architecture,57,LNCS,10.1007/3-540-45614-7_5,Bourdonov I.B.,article,RRexportIgorB.Bourdonov2002
+2009,InProceedings,model evolution by run-time parameter adaptation,264,Unknown Venue,10.1109/icse.2009.5070513,Epifani I.,article,RRexportIleniaEpifani2009
+2010,Book,delta-oriented programming of software product lines,320,LNCS,10.1007/978-3-642-15579-6_6,Schaefer I.,article,RRexportInaSchaefer2010
+2010,InProceedings,pure delta-oriented programming,61,Unknown Venue,10.1145/1868688.1868696,Schaefer I.,article,RRexportInaSchaefer2010
+2011,Journal,formal methods in software product line engineering,43,Computer,10.1109/mc.2011.47,Schaefer I.,article,RRexportInaSchaefer2011
+2011,InProceedings,compositional type-checking for delta-oriented programming,64,Unknown Venue,10.1145/1960275.1960283,Schaefer I.,article,RRexportInaSchaefer2011
+2003,Book,the uml 20 testing profile and its relation to ttcn-3,46,LNCS,10.1007/3-540-44830-6_7,Schieferdecker I.,article,RRexportInaSchieferdecker2003
+2006,Book,"dynamic frames: support for framing, dependencies and sharing without restrictions",178,LNCS,10.1007/11813040_19,Kassios I.T.,article,RRexportIoannisT.Kassios2006
+2009,Book,bridging the gap between algebraic specification and object-oriented generic programming,15,LNCS,10.1007/978-3-642-04694-0_9,Nunes I.,article,RRexportIsabelNunes2009
+2007,Journal,hotl: hypotheses and observations testing logic,39,The Journal of Logic and Algebraic Programming,10.1016/j.jlap.2007.03.002,Rodríguez I.,article,RRexportIsmaelRodríguez2007
+2009,Book,a general testability theory,18,LNCS,10.1007/978-3-642-04081-8_38,Rodríguez I.,article,RRexportIsmaelRodríguez2009
+2001,Journal,enhancements to lotos (e-lotos),38,Unknown Venue,None,Iec I.,article,RRexportIsoIec2001
+1985,Journal,algebra of communicating processes with abstraction,638,Theoretical Computer Science,10.1016/0304-3975(85)90088-x,Bergstra J.,article,RRexportJ.A.Bergstra1985
+1998,Journal,global business process re-engineering: a system dynamics-based approach,57,International Journal of Operations & Production Management,10.1108/01443579810225478,Ashayeri J.,article,RRexportJ.Ashayeri1998
+2000,InProceedings,pulse-i: deriving instances from a product line infrastructure,37,Unknown Venue,10.1109/ecbs.2000.839882,Bayer J.,article,RRexportJ.Bayer2000
+2000,Journal,generating real-time software test cases by time petri nets,5,International Journal of Computers and Applications,10.1080/1206212x.2000.11441618,Lin J.,article,RRexportJ.C.Lin2000
+1990,Book,process algebra,965,Unknown Venue,None,Baeten J.C.M.,article,RRexportJ.C.M.Baeten1990
+1991,Journal,real time process algebra,372,Formal Aspects of Computing,10.1007/bf01898401,Baeten J.C.M.,article,RRexportJ.C.M.Baeten1991
+2003,InProceedings,separation logic: a logic for shared mutable data structures,2111,Unknown Venue,10.1109/lics.2002.1029817,Reynolds J.,article,RRexportJ.C.Reynolds2003
+2005,InProceedings,is mutation an appropriate tool for testing experiments,796,Unknown Venue,10.1145/1062455.1062530,Andrews J.H.,article,RRexportJ.H.Andrews2005
+2005,Journal,a formal semantics for weak references,5,Unknown Venue,None,Hallet J.J.,article,RRexportJ.J.Hallet2005
+1990,Journal,the z notation: a reference manual,3,Unknown Venue,10.1016/0167-6423(90)90091-q,Spivey J.M.,article,RRexportJ.M.Spivey1990
+1993,Book,towards a mathematical science of computation,74,Studies in cognitive systems,10.1007/978-94-011-1793-7_2,McCarthy J.,article,RRexportJ.McCarthy1993
+2004,InProceedings,a programming model for the orchestration of web services,27,Unknown Venue,10.1109/sefm.2004.2,Misra J.,article,RRexportJ.Misra2004
+2003,InProceedings,object ownership for dynamic alias protection,32,Unknown Venue,10.1109/tools.1999.809424,Noble J.,article,RRexportJ.Noble2003
+2005,InProceedings,fortest: formal methods and testing,27,Unknown Venue,10.1109/cmpsac.2002.1044538,Bowen J.,article,RRexportJ.P.Bowen2005
+1982,Book,specification and verification of concurrent systems in cesar,1267,LNCS,10.1007/3-540-11494-7_22,Queille J.P.,article,RRexportJ.P.Queille1982
+2001,InProceedings,the simulation semantics of systemc,114,"Design, Automation, and Test in Europe",10.5555/367072.367091,Ruf J.,article,RRexportJ.Ruf2001
+2006,Journal,model based testing with labelled transition systems,1,CTIT technical report series,None,Tretmans J.,article,RRexportJ.Tretmans2006
+1997,InProceedings,interface-based design,307,Unknown Venue,10.1145/266021.266060,Rowson J.A.,article,RRexportJamesA.Rowson1997
+1976,Journal,symbolic execution and program testing,2920,Communications of the ACM,10.1145/360248.360252,King J.C.,article,RRexportJamesC.King1976
+1997,Book,mobile agents,668,Unknown Venue,None,White J.E.,article,RRexportJamesE.White1997
+1998,Book,flexible alias protection,344,LNCS,10.1007/bfb0054091,Noble J.,article,RRexportJamesNoble1998
+1999,Book,"prototype-based programming: concepts, languages and applications",57,Springer eBooks,None,Noble J.,article,RRexportJamesNoble1999
+2000,Book,design and use of software architectures: adopting and evolving a product-line approach,1215,Unknown Venue,None,Bosch J.,article,RRexportJanBosch2000
+1990,InProceedings,transition system specifications with negative premises (extended abstract),19,International Conference on Concurrency Theory,None,Groote J.F.,article,RRexportJanFrisoGroote1990
+2006,Book,transition system specifications with negative premises,42,Springer eBooks,10.1007/bfb0039069,Groote J.F.,article,RRexportJanFrisoGroote2006
+2012,Book,"model based specification, verification, and test generation for a safety fieldbus profile",7,LNCS,10.1007/978-3-642-33678-2_8,Krause J.,article,RRexportJanKrause2012
+2010,Journal,verification of flexray start-up mechanism by timed automata,6,Metrology and Measurement Systems,10.2478/v10178-010-0039-z,Malinský J.,article,RRexportJanMalinský2010
+1996,Book,from testing theory to test driver implementation,24,LNCS,10.1007/3-540-60973-3_106,Peleska J.,article,RRexportJanPeleska1996
+2011,Book,a real-world benchmark model for testing concurrent real-time systems in the automotive domain,48,LNCS,10.1007/978-3-642-24580-0_11,Peleska J.,article,RRexportJanPeleska2011
+2008,Book,linking programs to architectures: an object-oriented hierarchical software model based on boxes,11,LNCS,10.1007/978-3-540-85289-6_10,Schäfer J.,article,RRexportJanSchäfer2008
+2010,InProceedings,jcobox: generalizing active objects to concurrent components,120,European Conference on Object-Oriented Programming,10.5555/1883978.1883996,Schäfer J.,article,RRexportJanSchäfer2010
+2010,Book,jcobox: generalizing active objects to concurrent components,75,LNCS,10.1007/978-3-642-14107-2_13,Schäfer J.,article,RRexportJanSchäfer2010
+2009,Book,implicit dynamic frames: combining dynamic frames and separation logic,113,LNCS,10.1007/978-3-642-03013-0_8,Smans J.,article,RRexportJanSmans2009
+1996,Book,minimizable timed automata,36,LNCS,10.1007/3-540-61648-9_38,Springintveld J.,article,RRexportJanSpringintveld1996
+2001,Journal,testing timed automata,279,Theoretical Computer Science,10.1016/s0304-3975(99)00134-6,Springintveld J.,article,RRexportJanSpringintveld2001
+1993,Journal,a formal approach to conformance testing,261,Unknown Venue,None,Tretmans J.,article,RRexportJanTretmans1993
+1996,Journal,"test generation with inputs, outputs and repetitive quiescence",509,Unknown Venue,None,Tretmans J.,article,RRexportJanTretmans1996
+1996,Book,"test generation with inputs, outputs, and quiescence",148,LNCS,10.1007/3-540-61042-1_42,Tretmans J.,article,RRexportJanTretmans1996
+1996,Journal,conformance testing with labelled transition systems: implementation relations and test generation,188,Computer Networks and ISDN Systems,10.1016/s0169-7552(96)00017-7,Tretmans J.,article,RRexportJanTretmans1996
+1999,Book,testing concurrent systems: a formal approach,240,LNCS,10.1007/3-540-48320-9_6,Tretmans J.,article,RRexportJanTretmans1999
+2008,Book,model based testing with labelled transition systems,389,LNCS,10.1007/978-3-540-78917-8_1,Tretmans J.,article,RRexportJanTretmans2008
+1996,Book,fme'96: industrial benefit and advances in formal methods,69,LNCS,10.1007/3-540-60973-3,Leeuwen J.V.,article,RRexportJanVanLeeuwen1996
+1993,Book,formal techniques in real-time and fault-tolerant systems,362,Springer eBooks,10.1007/978-1-4615-3220-0,Vytopil J.,article,RRexportJanVytopil1993
+1996,Book,an improvement of mcmillan's unfolding algorithm,176,LNCS,10.1007/3-540-61042-1_40,Esparza J.,article,RRexportJavierEsparza1996
+2001,Book,a bdd-based model checker for recursive programs,165,LNCS,10.1007/3-540-44585-4_30,Esparza J.,article,RRexportJavierEsparza2001
+2006,Book,fm 2006: formal methods,206,LNCS,10.1007/11813040,Misra J.,article,RRexportJayadevMisra2006
+2007,Book,the why/krakatoa/caduceus platform for deductive program verification,315,Computer Aided Verification,10.1007/978-3-540-73368-3_21,Filliâtre J.C.,article,RRexportJean-ChristopheFilliâtre2007
+1996,Book,using on-the-fly verification techniques for the generation of test suites,168,LNCS,10.1007/3-540-61474-5_82,Fernandez J.C.,article,RRexportJean-ClaudeFernandez1996
+1987,Journal,the program dependence graph and its use in optimization,2722,ACM Transactions on Programming Languages and Systems,10.1145/24039.24041,Ferrante J.,article,RRexportJeanneFerrante1987
+2003,Book,modelling recursive calls with uml state diagrams,27,LNCS,10.1007/3-540-36578-8_10,Tenzer J.,article,RRexportJenniferTenzer2003
+2009,Journal,data fusion,1842,ACM Computing Surveys,10.1145/1456650.1456651,Bleiholder J.,article,RRexportJensBleiholder2009
+2006,Journal,static program analysis based on virtual register renaming,26,Unknown Venue,None,Singer J.,article,RRexportJeremySinger2006
+1975,Journal,the protection of information in computer systems,1397,IEEE CSIT Newsletter,10.1109/csit.1975.6498831,Saltier J.H.,article,RRexportJeromeH.Saltier1975
+2008,Book,formal methods for components and objects,17,LNCS,10.1007/978-3-540-92188-2,Aranda J.,article,RRexportJesusAranda2008
+2006,Book,from active to passive: progress in testing of internet routing protocols,20,Kluwer Academic Publishers eBooks,10.1007/0-306-47003-9_7,Wu J.,article,RRexportJianpingWu2006
+2006,Journal,the mils architecture for high-assurance embedded systems,159,International Journal of Embedded Systems,10.1504/ijes.2006.014859,Foss J.A.,article,RRexportJimAlvesFoss2006
+2000,Journal,using analytic network process and goal programming for interdependent information system project selection,597,Computers & Operations Research,10.1016/s0305-0548(99)00057-x,Lee J.W.,article,RRexportJinWooLee2000
+1997,Book,communication concepts for mobile agent systems,99,LNCS,10.1007/3-540-62803-7_29,Baumann J.,article,RRexportJoachimBaumann1997
+2011,InProceedings,an evolutionary algorithm for the generation of timed test traces for embedded real-time systems,23,Unknown Venue,10.1109/icst.2011.37,Hänsel J.,article,RRexportJoachimHänsel2011
+2002,InProceedings,automatic test data generation for structural testing of embedded software systems by evolutionary testing,81,Genetic and Evolutionary Computation Conference,None,Wegener J.,article,RRexportJoachimWegener2002
+2010,Journal,lightweight time modeling in timed creol,13,arXiv (Cornell University),10.4204/eptcs.36.4,Bjørk J.,article,RRexportJoakimBjørk2010
+2010,Journal,lightweight time modeling in timed creol,13,arXiv (Cornell University),10.4204/eptcs.36.4,Bjørk J.,article,RRexportJoakimBjørk2010
+2003,Journal,models in software engineering – an introduction,407,Software & Systems Modeling,10.1007/s10270-003-0020-3,Ludewig J.,article,RRexportJochenLudewig2003
+2003,Journal,models in software engineering – an introduction,407,Software & Systems Modeling,10.1007/s10270-003-0020-3,Ludewig J.,article,RRexportJochenLudewig2003
+2007,Book,programming erlang: software for a concurrent world,337,Unknown Venue,None,Armstrong J.,article,RRexportJoeArmstrong2007
+1996,Book,uppaal: a tool suite for automatic verification of real time systems,716,LNCS,10.1007/bfb0020949,Bengtsson J.,article,RRexportJohanBengtsson1996
+1996,Book,uppaal—a tool suite for automatic verification of real-time systems,716,LNCS,10.1007/bfb0020949,Bengtsson J.,article,RRexportJohanBengtsson1996
+2004,Book,"timed automata: semantics, algorithms and tools",702,LNCS,10.1007/978-3-540-27755-2_3,Bengtsson J.,article,RRexportJohanBengtsson2004
+2004,Book,"timed automata: semantics, algorithms and tools",702,LNCS,10.1007/978-3-540-27755-2_3,Bengtsson J.,article,RRexportJohanBengtsson2004
+2005,Book,specifying and generating test cases using observer automata,60,LNCS,10.1007/978-3-540-31848-4_9,Blom J.,article,RRexportJohanBlom2005
+2010,Journal,lazy behavioral subtyping,27,The Journal of Logic and Algebraic Programming,10.1016/j.jlap.2010.07.008,Dovland J.,article,RRexportJohanDovland2010
+2005,Book,fm 2005: formal methods,1,LNCS,10.1007/b27882,Fitzgerald J.,article,RRexportJohnFitzgerald2005
+2001,Journal,prioritising customers and other stakeholders using the ahp,35,European Journal of Marketing,10.1108/eum0000000005728,Jackson J.,article,RRexportJohnJackson2001
+1962,InProceedings,towards a mathematical science of computation,472,IFIP Congress,None,McCarthy J.,article,RRexportJohnMcCarthy1962
+2002,Book,an overview of formal verification for the time-triggered architecture,55,LNCS,10.1007/3-540-45739-9_7,Rushby J.,article,RRexportJohnRushby2002
+2007,Book,model-based software testing and analysis with c#,95,Unknown Venue,10.1017/cbo9780511619540,Jacky J.,article,RRexportJonathanJacky2007
+1999,Journal,"concepts, algorithms, and tools for model checking",74,Unknown Venue,None,Katoen J.P.,article,RRexportJoostP.Katoen1999
+2004,Journal,an ahp-based methodology to rank critical success factors of executive information systems,182,Computer Standards & Interfaces,10.1016/j.csi.2004.09.002,Salmeron J.L.,article,RRexportJoseL.Salmeron2004
+2006,InProceedings,soundness and completeness warnings in esc/java2,32,Unknown Venue,10.1145/1181195.1181200,Kiniry J.R.,article,RRexportJosephR.Kiniry2006
+2007,Book,the koa remote voting system: a summary of work to date,21,Trustworthy Global Computing,10.1007/978-3-540-75336-0_16,Kiniry J.R.,article,RRexportJosephR.Kiniry2007
+2008,Book,secret ninja formal methods,30,Springer eBooks,10.1007/978-3-540-68237-0_16,Kiniry J.R.,article,RRexportJosephR.Kiniry2008
+2003,Book,fast testing of critical properties through passive testing,32,LNCS,10.1007/3-540-44830-6_22,Arnedo J.A.,article,RRexportJoséAntonioArnedo2003
+1992,Journal,conditional rewriting logic as a unified model of concurrency,1313,Theoretical Computer Science,10.1016/0304-3975(92)90182-f,Meseguer J.,article,RRexportJoséMeseguer1992
+2004,Book,lectures on concurrency and petri nets,267,LNCS,10.1007/b98282,Desel J.,article,RRexportJörgDesel2004
+2002,Book,atom3: a tool for multi-formalism and meta-modelling,413,LNCS,10.1007/3-540-45923-5_12,Lara J.D.,article,RRexportJuandeLara2002
+2001,Book,modal logics and mu-calculi: an introduction,150,Elsevier eBooks,10.1016/b978-044482830-9/50022-9,Bradfield J.,article,RRexportJulianBradfield2001
+2005,Book,proving and disproving termination of higher-order functions,131,LNCS,10.1007/11559306_12,Giesl J.,article,RRexportJürgenGiesl2005
+2002,Journal,feature-oriented product line engineering,513,IEEE Software,10.1109/ms.2002.1020288,Kang K.,article,RRexportK.C.Kang2002
+2007,InProceedings,feature diagrams and logics: there and back again,270,Software Product Lines,10.1109/splc.2007.19,Czarnecki K.,article,RRexportK.Czarnecki2007
+1996,Journal,sheep cloned by nuclear transfer from a cultured cell line,1835,Nature,10.1038/380064a0,Campbell K.H.S.,article,RRexportK.H.S.Campbell1996
+1995,Journal,a technique of state space search based on unfolding,279,Formal Methods in System Design,10.1007/bf01384314,McMillan K.L.,article,RRexportK.L.McMillan1995
+1995,Unknown,towards reliable modular programs,119,Unknown Venue,None,Leino K.R.,article,RRexportK.RLeino1995
+2002,Journal,data abstraction and information hiding,132,ACM Transactions on Programming Languages and Systems,10.1145/570886.570888,Leino K.R.M.,article,RRexportK.RustanM.Leino2002
+2007,InProceedings,automatic verification of textbook programs that usecomprehensions,18,Formal Techniques for Java-like Programs,None,Leino K.R.M.,article,RRexportK.RustanM.Leino2007
+2010,Book,a polymorphic intermediate verification language: design and logical encoding,85,LNCS,10.1007/978-3-642-12002-2_26,Leino K.R.M.,article,RRexportK.RustanM.Leino2010
+2005,InProceedings,vesta: a statistical model-checker and analyzer for probabilistic systems,170,Unknown Venue,10.1109/qest.2005.42,Sen K.,article,RRexportK.Sen2005
+1994,Journal,calculating controller area network (can) message response times,450,IFAC Proceedings Volumes,10.1016/s1474-6670(17)45747-8,Tindell K.,article,RRexportK.Tindell1994
+2006,Book,theoretical aspects of computing - ictac 2006,53,LNCS,10.1007/11921240,Barkaoui K.,article,RRexportKamelBarkaoui2006
+2008,InProceedings,full functional verification of linked data structures,204,Unknown Venue,10.1145/1375581.1375624,Zee K.,article,RRexportKarenZee2008
+2004,InProceedings,an automatic testbench generation tool for a systemc functional verification methodology,34,Unknown Venue,10.1145/1016568.1016592,Silva K.R.G.D.,article,RRexportKarinaR.G.daSilva2004
+2006,InProceedings,a type system to assure scope safety within safety-critical java modules,20,Unknown Venue,10.1145/1167999.1168017,Nilsen K.,article,RRexportKelvinNilsen2006
+1996,Book,the java programming language,1569,Unknown Venue,None,Arnold K.,article,RRexportKenArnold1996
+1993,Book,symbolic model checking,1585,Springer eBooks,10.1007/978-1-4615-3190-6,McMillan K.L.,article,RRexportKennethL.McMillan1993
+1997,Book,the b method and the b toolkit,11,LNCS,10.1007/bfb0000503,Robinson K.,article,RRexportKenRobinson1997
+2015,Book,testing software and systems,10,LNCS,10.1007/978-3-319-25945-1,Fakih K.E.,article,RRexportKhaledEl-Fakih2015
+1997,Journal,uppaal in a nutshell,2152,International Journal on Software Tools for Technology Transfer,10.1007/s100090050010,Larsen K.G.,article,RRexportKimG.Larsen1997
+1997,Journal,time-abstracted bisimulation: implicit specifications and decidability,47,Information and Computation,10.1006/inco.1997.2623,Larsen K.G.,article,RRexportKimG.Larsen1997
+2005,Book,online testing of real-time systems using uppaal,126,LNCS,10.1007/978-3-540-31848-4_6,Larsen K.G.,article,RRexportKimG.Larsen2005
+2005,Book,online testing of real-time systems using uppaal,126,LNCS,10.1007/978-3-540-31848-4_6,Larsen K.G.,article,RRexportKimG.Larsen2005
+2009,InProceedings,model checking of domain artifacts in product line engineering,146,Unknown Venue,10.1109/ase.2009.16,Lauenroth K.,article,RRexportKimLauenroth2009
+2000,Journal,model checking java programs using java pathfinder,791,International Journal on Software Tools for Technology Transfer,10.1007/s100090050043,Havelund K.,article,RRexportKlausHavelund2000
+2004,Journal,an overview of the runtime verification tool java pathexplorer,204,Formal Methods in System Design,10.1023/b:form.0000017721.39909.4b,Havelund K.,article,RRexportKlausHavelund2004
+2005,Book,"software product line engineering: foundations, principles and techniques",2188,Unknown Venue,None,Pohl K.,article,RRexportKlausPohl2005
+2005,Book,software product line engineering,2238,Springer eBooks,10.1007/3-540-28901-1,Pohl K.,article,RRexportKlausPohl2005
+2003,Book,verification of reactive systems: formal methods and algorithms,123,Unknown Venue,None,Schneider K.,article,RRexportKlausSchneider2003
+2004,Book,verification of reactive systems,74,Springer eBooks,10.1007/978-3-662-10778-2,Schneider K.,article,RRexportKlausSchneider2004
+2004,Book,analysis of recursive game graphs using data flow equations,1141,LNCS,10.1007/978-3-540-24622-0_23,Etessami K.,article,RRexportKoushaEtessami2004
+2005,Unknown,cute: a concolic unit testing engine for c,282,Unknown Venue,10.21236/ada482657,Sen K.,article,RRexportKoushikSen2005
+2008,InProceedings,priority-based scheduling of dynamic segment in flexray network,15,"International Conference on Control, Automation and Systems",10.1109/iccas.2008.4694307,Jung K.H.,article,RRexportKwang-HoJung2008
+2003,Journal,runtime verification of timed ltl using disjunctive normalized equation systems,40,Electronic Notes in Theoretical Computer Science,10.1016/s1571-0661(04)81050-8,Kristoffersen K.J.,article,RRexportKåreJellingKristoffersen2003
+1993,Book,decidability of bisimulation equivalences for parallel timer processes,190,LNCS,10.1007/3-540-56496-9_24,Čerāns K.,article,RRexportKārlisČerāns1993
+2007,Journal,theories for model-based testing: real-time and coverage,68,Unknown Venue,None,Briones L.B.,article,RRexportL.BrandanBriones2007
+2002,InProceedings,requirement-based automated black-box test generation,97,Unknown Venue,10.1109/cmpsac.2001.960658,Tahat L.,article,RRexportL.H.Tahat2002
+2009,Journal,on the semantics and verification of normative multi-agent systems,21,JUCS - Journal of Universal Computer Science,None,Astefanoaei L.,article,RRexportLacramioaraAstefanoaei2009
+2005,Book,test derivation from timed automata,10,LNCS,10.1007/11498490_10,Briones L.B.,article,RRexportLauraBrandánBriones2005
+2005,Book,a test generation framework for quiescent real-time systems,99,LNCS,10.1007/978-3-540-31848-4_5,Briones L.B.,article,RRexportLauraBrandánBriones2005
+2008,Book,semantic foundations and inference of non-null annotations,43,LNCS,10.1007/978-3-540-68863-1_9,Hubert L.,article,RRexportLaurentHubert2008
+2011,Book,sawja: static analysis workshop for java,24,LNCS,10.1007/978-3-642-18070-5_7,Hubert L.,article,RRexportLaurentHubert2011
+2011,Book,sawja: static analysis workshop for java,24,LNCS,10.1007/978-3-642-18070-5_7,Hubert L.,article,RRexportLaurentHubert2011
+2007,Book,efficient e-matching for smt solvers,245,LNCS,10.1007/978-3-540-73595-3_13,Moura L.D.,article,RRexportLeonardodeMoura2007
+2008,Book,z3: an efficient smt solver,5830,LNCS,10.1007/978-3-540-78800-3_24,Moura L.D.,article,RRexportLeonardodeMoura2008
+1997,Book,refusal testing for classes of transition systems with inputs and outputs,47,Springer eBooks,10.1007/978-0-387-35271-8_2,Heerink L.,article,RRexportLexHeerink1997
+2004,Journal,an overview of jml tools and applications,724,International Journal on Software Tools for Technology Transfer,10.1007/s10009-004-0167-4,Burdy L.,article,RRexportLilianBurdy2004
+2010,InProceedings,implementing software product lines using traits,44,Unknown Venue,10.1145/1774088.1774530,Bettini L.,article,RRexportLorenzoBettini2010
+2013,Book,time and petri nets,108,Springer eBooks,10.1007/978-3-642-41115-1,Zeugmann L.P.,article,RRexportLouchkaPopova-Zeugmann2013
+1987,Book,testing equivalences for event structures,21,LNCS,10.1007/3-540-18419-8_9,Aceto L.,article,RRexportLucaAceto1987
+2001,InProceedings,interface automata,1213,Unknown Venue,10.1145/503209.503226,Alfaro L.D.,article,RRexportLucadeAlfaro2001
+2002,Book,tutorial introduction to graph transformation: a software engineering perspective,177,LNCS,10.1007/3-540-45832-8_30,Baresi L.,article,RRexportLucianoBaresi2002
+2004,Book,tutorial introduction to graph transformation: a software engineering perspective,20,LNCS,10.1007/978-3-540-30203-2_30,Baresi L.,article,RRexportLucianoBaresi2004
+2010,Journal,setexp: a method of transformation of timed automata into finite state automata,8,Real-Time Systems,10.1007/s11241-010-9103-8,Ouedraogo L.,article,RRexportLucienOuedraogo2010
+2008,Book,imperative functional programming with isabelle/hol,87,LNCS,10.1007/978-3-540-71067-7_14,Bulwahn L.,article,RRexportLukasBulwahn2008
+2006,Book,coinductive logic programming,93,LNCS,10.1007/11799573_25,Simon L.,article,RRexportLukeSimon2006
+2006,Book,coinductive logic programming,93,LNCS,10.1007/11799573_25,Simon L.,article,RRexportLukeSimon2006
+2007,Book,co-logic programming: extending logic programming with coinduction,77,LNCS,10.1007/978-3-540-73420-8_42,Simon L.,article,RRexportLukeSimon2007
+2014,Journal,design automation and test in europe (date),40,Unknown Venue,None,Sun L.,article,RRexportLuoSun2014
+2000,Book,formal test automation: the conference protocol with tgv/torx,33,IFIP advances in information and communication technology,10.1007/978-0-387-35516-0_14,Bousquet L.D.,article,RRexportLydieDuBousquet2000
+2008,Book,a verification framework for normative multi-agent systems,20,LNCS,10.1007/978-3-540-89674-6_9,Aştefănoaei L.,article,RRexportLăcrămioaraAştefănoaei2008
+2010,Book,the refinement of choreographed multi-agent systems,4,LNCS,10.1007/978-3-642-11355-0_2,Aştefănoaei L.,article,RRexportLăcrămioaraAştefănoaei2010
+2007,Journal,uml activity diagram-based automatic test case generation for java programs,75,The Computer Journal,10.1093/comjnl/bxm057,Chen M.,article,RRexportM.Chen2007
+2002,Journal,maude: specification and programming in rewriting logic,728,Theoretical Computer Science,10.1016/s0304-3975(01)00359-0,Clavel M.,article,RRexportM.Clavel2002
+2003,InProceedings,a new approach to abstract syntax involving binders,280,Unknown Venue,10.1109/lics.1999.782617,Gabbay M.,article,RRexportM.Gabbay2003
+1995,Journal,a process algebra for timed systems,263,Information and Computation,10.1006/inco.1995.1041,Hennessy M.,article,RRexportM.Hennessy1995
+2004,InProceedings,t-uppaal: online model-based testing of real-time systems,51,Automated Software Engineering,10.1109/ase.2004.65,Mikucionis M.,article,RRexportM.Mikucionis2004
+1992,InProceedings,objtest: an experimental testing tool for algebraic specifications,6,Formal Methods,None,Woodward M.,article,RRexportM.R.Woodward1992
+1993,Journal,errors in algebraic specifications and an experimental mutation testing tool,46,Software Engineering Journal,10.1049/sej.1993.0027,Woodward M.,article,RRexportM.R.Woodward1993
+2003,InProceedings,"from weak to strong, dead or alive? an analysis of some mutation testing issues",137,Unknown Venue,10.1109/wst.1988.5370,Woodward M.,article,RRexportM.R.Woodward2003
+2010,InProceedings,fault coverage measurement of a timed test case generation approach,5,Unknown Venue,10.1109/ecbs.2010.22,AbouTrab M.S.,article,RRexportM.S.AbouTrab2010
+2012,InProceedings,specification mutation analysis for validating timed testing approaches based on timed automata,23,Unknown Venue,10.1109/compsac.2012.93,AbouTrab M.S.,article,RRexportM.SaeedAbouTrab2012
+2013,Journal,testing real-time embedded systems using timed automata based approaches,25,Journal of Systems and Software,10.1016/j.jss.2012.12.030,AbouTrab M.S.,article,RRexportM.SaeedAbouTrab2013
+1999,Journal,passive testing and application to the gsm-map protocol,32,Information and Software Technology,10.1016/s0950-5849(99)00039-7,Tabourier M.,article,RRexportM.Tabourier1999
+2008,Journal,algorithms for modeling a class of single timing faults in communication protocols,14,IEEE Transactions on Computers,10.1109/tc.2007.70772,Uyar M.U.,article,RRexportM.UmitUyar2008
+2007,InProceedings,product line implementation using aspect-oriented and model-driven software development,193,Unknown Venue,10.1109/splc.2007.28,Voelter M.,article,RRexportM.Voelter2007
+2005,Book,timing fault models for systems with multiple timers,8,LNCS,10.1007/11430230_14,Uyar M.Ü.,article,RRexportM.ÜmitUyar2005
+2004,Book,compositional testing with ioco,121,LNCS,10.1007/978-3-540-24617-6_7,Bijl M.V.D.,article,RRexportMachielvanderBijl2004
+2004,Book,compositional testing with ioco,121,LNCS,10.1007/978-3-540-24617-6_7,Bijl M.V.D.,article,RRexportMachielvanderBijl2004
+2007,Journal,atomic action refinement in model based testing,2,CTIT technical report series,None,Bijl M.V.D.,article,RRexportMachielvanderBijl2007
+1997,Journal,region-based memory management,623,Information and Computation,10.1006/inco.1996.2613,Tofte M.,article,RRexportMadsTofte1997
+2007,Book,"all about maude - a high-performance logical framework: how to specify, program, and verify systems in rewriting logic",632,Unknown Venue,None,Clavel M.,article,RRexportManuelClavel2007
+2007,InProceedings,establishing object invariants with delayed types,83,Unknown Venue,10.1145/1297027.1297052,Fahndrich M.,article,RRexportManuelFahndrich2007
+2010,InProceedings,embedded contract languages,123,Unknown Venue,10.1145/1774088.1774531,Fähndrich M.,article,RRexportManuelFähndrich2010
+2003,Journal,algebraic theory of probabilistic processes,47,The Journal of Logic and Algebraic Programming,10.1016/s1567-8326(02)00069-3,Núñez M.,article,RRexportManuelNúñez2003
+2006,Book,conformance testing relations for timed systems,21,LNCS,10.1007/11759744_8,Núñez M.,article,RRexportManuelNúñez2006
+2006,Book,conformance testing relations for timed systems,21,LNCS,10.1007/11759744_8,Núñez M.,article,RRexportManuelNúñez2006
+2007,Journal,automated generation of test suites from formal specifications of real-time reactive systems,22,Journal of Systems and Software,10.1016/j.jss.2007.05.009,Zheng M.,article,RRexportMaoZheng2007
+2010,Book,termination graphs for java bytecode,35,LNCS,10.1007/978-3-642-17172-7_2,Brockschmidt M.,article,RRexportMarcBrockschmidt2010
+2011,InProceedings,modular termination proofs of recursive java bytecode programs by term rewriting,20,Rewriting Techniques and Applications,10.4230/lipics.rta.2011.155,Brockschmidt M.,article,RRexportMarcBrockschmidt2011
+2012,Book,automated detection of non-termination and nullpointerexceptions for java bytecode,53,LNCS,10.1007/978-3-642-31762-0_9,Brockschmidt M.,article,RRexportMarcBrockschmidt2012
+2011,InProceedings,model checking a systemc/tlm design of the amba ahb protocol,16,Unknown Venue,10.1109/estimedia.2011.6088527,Pockrandt M.,article,RRexportMarcelPockrandt2011
+2013,Book,model checking memory-related properties of hardware/software co-designs,6,IFIP advances in information and communication technology,10.1007/978-3-642-38853-8_9,Pockrandt M.,article,RRexportMarcelPockrandt2013
+2006,Book,modeling and validating distributed embedded real-time systems with vdm++,106,LNCS,10.1007/11813040_11,Verhoef M.,article,RRexportMarcelVerhoef2006
+2009,InProceedings,using web security scanners to detect vulnerabilities in web services,154,Unknown Venue,10.1109/dsn.2009.5270294,Vieira M.,article,RRexportMarcoVieira2009
+2008,Book,model-based testing of object-oriented reactive systems with spec explorer,239,Springer eBooks,10.1007/978-3-540-78917-8_2,Veanes M.,article,RRexportMargusVeanes2008
+1995,Book,"testing can be formal, too",262,LNCS,10.1007/3-540-59293-8_188,Gaudel M.C.,article,RRexportMarie-ClaudeGaudel1995
+2004,Book,checking absence of illicit applet interactions: a case study,30,LNCS,10.1007/978-3-540-24721-0_6,Huisman M.,article,RRexportMariekeHuisman2004
+2011,Book,cvpp: a tool set for compositional verification of control-flow safety properties,16,LNCS,10.1007/978-3-642-18070-5_8,Huisman M.,article,RRexportMariekeHuisman2011
+2002,Journal,the theory of interactive generalized semi-markov processes,96,Theoretical Computer Science,10.1016/s0304-3975(01)00043-3,Bravetti M.,article,RRexportMarioBravetti2002
+2008,Unknown,composition of model-based test coverage criteria,4,Unknown Venue,None,Friske M.,article,RRexportMarioFriske2008
+2002,Book,if-20: a validation environment for component-based real-time systems,121,LNCS,10.1007/3-540-45657-0_26,Bozga M.,article,RRexportMariusBozga2002
+2004,Book,formal methods for the design of real time systems,275,LNCS,10.1007/b110123,Bozga M.,article,RRexportMariusBozga2004
+2001,Book,the relationship between program dependence and mutation analysis,47,Springer eBooks,10.1007/978-1-4757-5939-6_4,Harman M.,article,RRexportMarkHarman2001
+2001,Journal,an overview of program slicing,174,Software Focus,10.1002/swf.41,Harman M.,article,RRexportMarkHarman2001
+2007,InProceedings,new mutations for evaluation of specification and implementation levels of adequacy in testing of statecharts models,20,Unknown Venue,10.1109/taic.part.2007.23,Trakhtenbrot M.,article,RRexportMarkTrakhtenbrot2007
+2006,Book,practical model-based testing: a tools approach,1125,Unknown Venue,None,Utting M.,article,RRexportMarkUtting2006
+2001,Book,incremental closure of free variable tableaux,59,LNCS,10.1007/3-540-45744-5_46,Giese M.,article,RRexportMartinGiese2001
+2008,Journal,a brief account of runtime verification,750,The Journal of Logic and Algebraic Programming,10.1016/j.jlap.2008.08.004,Leucker M.,article,RRexportMartinLeucker2008
+2008,Book,"sensoria patterns: augmenting service engineering with formal analysis, transformation and dynamicity",28,Communications in computer and information science,10.1007/978-3-540-88479-8_13,Wirsing M.,article,RRexportMartinWirsing2008
+2001,Journal,a comprehensive 0-1 goal programming model for project selection,200,International Journal of Project Management,10.1016/s0263-7863(99)00078-2,Badri M.A.,article,RRexportMasoodA.Badri2001
+2009,InProceedings,"choice, interoperability, and conformance in interaction protocols and service choreographies",50,Adaptive Agents and Multi-Agents Systems,10.1145/1558109.1558129,Baldoni M.,article,RRexportMatteoBaldoni2009
+1988,Book,algebraic theory of processes,874,Unknown Venue,None,Hennessy M.,article,RRexportMatthewHennessy1988
+2002,Journal,information flow vs resource access in the asynchronous pi-calculus,100,ACM Transactions on Programming Languages and Systems,10.1145/570886.570890,Hennessy M.,article,RRexportMatthewHennessy2002
+2007,Book,a distributed pi-calculus,130,Unknown Venue,None,Hennessy M.,article,RRexportMatthewHennessy2007
+2007,Book,a distributed pi-calculus,130,Unknown Venue,None,Hennessy M.,article,RRexportMatthewHennessy2007
+2005,InProceedings,separation logic and abstraction,312,Unknown Venue,10.1145/1040305.1040326,Parkinson M.,article,RRexportMatthewParkinson2005
+2007,Book,distributed embedded systems - validation strategies,5,Unknown Venue,None,Dyer M.,article,RRexportMatthiasDyer2007
+2009,Book,normative multi-agent programs and their logics,105,LNCS,10.1007/978-3-642-05301-6_2,Dastani M.,article,RRexportMehdiDastani2009
+2007,Journal,formal testing from timed finite state machines,89,Computer Networks,10.1016/j.comnet.2007.10.002,Merayo M.G.,article,RRexportMercedesG.Merayo2007
+2007,InProceedings,formal testing of systems presenting soft and hard deadlines,7,Fundamentals of Software Engineering,10.5555/1775223.1775234,Merayo M.G.,article,RRexportMercedesG.Merayo2007
+2007,Book,formal testing of systems presenting soft and hard deadlines,6,Springer eBooks,10.1007/978-3-540-75698-9_11,Merayo M.G.,article,RRexportMercedesG.Merayo2007
+2008,Journal,extending efsms to specify and test timed systems with action durations and time-outs,45,IEEE Transactions on Computers,10.1109/tc.2008.15,Merayo M.,article,RRexportMercedesMerayo2008
+2011,Book,fm 2011: formal methods,98,LNCS,10.1007/978-3-642-21437-0,Butler M.,article,RRexportMichaelButler2011
+2010,Book,model checking the flexray physical layer protocol,12,LNCS,10.1007/978-3-642-15898-8_9,Gerke M.,article,RRexportMichaelGerke2010
+2009,Journal,satisfiability modulo software,10,Unknown Venue,None,Moskal M.L.J.,article,RRexportMichalJanMoskal2009
+2008,Journal,e-matching for fun and profit,30,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2008.04.078,Moskal M.,article,RRexportMichałMoskal2008
+2004,Book,towards a tool environment for model-based testing with asml,53,LNCS,10.1007/978-3-540-24617-6_18,Barnett M.,article,RRexportMikeBarnett2004
+2004,Journal,verification of object-oriented programs with invariants,330,The Journal of Object Technology,10.5381/jot.2004.3.6.a2,Barnett M.,article,RRexportMikeBarnett2004
+2004,Book,towards a tool environment for model-based testing with asml,53,LNCS,10.1007/978-3-540-24617-6_18,Barnett M.,article,RRexportMikeBarnett2004
+2005,Book,the spec# programming system: an overview,1010,LNCS,10.1007/978-3-540-30569-9_3,Barnett M.,article,RRexportMikeBarnett2005
+2005,Book,the spec# programming system: an overview,1010,LNCS,10.1007/978-3-540-30569-9_3,Barnett M.,article,RRexportMikeBarnett2005
+2006,Book,boogie: a modular reusable verifier for object-oriented programs,769,LNCS,10.1007/11804192_17,Barnett M.,article,RRexportMikeBarnett2006
+2006,Book,boogie: a modular reusable verifier for object-oriented programs,769,LNCS,10.1007/11804192_17,Barnett M.,article,RRexportMikeBarnett2006
+2007,InProceedings,reachability analysis for annotated code,25,Unknown Venue,10.1145/1292316.1292319,Janota M.,article,RRexportMikolášJanota2007
+2008,InProceedings,coverage-driven automatic test generation for uml activity diagrams,45,Unknown Venue,10.1145/1366110.1366145,Chen M.,article,RRexportMingsongChen2008
+1994,Journal,"integrating qfd, ahp and benchmarking in strategic marketing",169,Journal of Business and Industrial Marketing,10.1108/08858629410053470,Lu M.H.,article,RRexportMinHuaLu1994
+2004,Book,black-box conformance testing for real-time systems,191,LNCS,10.1007/978-3-540-24732-6_8,Krichen M.,article,RRexportMoezKrichen2004
+2004,Book,real-time testing with timed automata testers and coverage criteria,24,LNCS,10.1007/978-3-540-30206-3_11,Krichen M.,article,RRexportMoezKrichen2004
+2005,Book,an expressive and implementable formal framework for testing real-time systems,40,LNCS,10.1007/11430230_15,Krichen M.,article,RRexportMoezKrichen2005
+2006,Book,interesting properties of the real-time conformance relation tioco,19,LNCS,10.1007/11921240_22,Krichen M.,article,RRexportMoezKrichen2006
+2009,Journal,conformance testing for real-time systems,165,Formal Methods in System Design,10.1007/s10703-009-0065-1,Krichen M.,article,RRexportMoezKrichen2009
+1981,Journal,"petri nets, event structures and domains, part i",925,Theoretical Computer Science,10.1016/0304-3975(81)90112-2,Nielsen M.,article,RRexportMogensNielsen1981
+2007,Book,acsar: software model checking with transfinite refinement,620,Springer eBooks,10.1007/978-3-540-73370-6_19,Seghir M.N.,article,RRexportMohamedNassimSeghir2007
+2011,Book,a lightweight approach for loop summarization,7,LNCS,10.1007/978-3-642-24372-1_25,Seghir M.N.,article,RRexportMohamedNassimSeghir2011
+2009,Journal,schedulability of asynchronous real-time concurrent objects☆,39,The Journal of Logic and Algebraic Programming,10.1016/j.jlap.2009.02.009,Jaghoori M.M.,article,RRexportMohammadMahdiJaghoori2009
+2010,Book,a multi-criteria decision making framework for real time model-based testing,8,LNCS,10.1007/978-3-642-15585-7_20,Trab M.S.A.,article,RRexportMohammadSaeedAbouTrab2010
+2004,Journal,java-mac: a run-time assurance approach for java programs,221,Formal Methods in System Design,10.1023/b:form.0000017719.43755.7c,Kim M.,article,RRexportMoonZooKim2004
+2010,InProceedings,analysing unlinkability and anonymity using the applied pi calculus,132,Unknown Venue,10.1109/csf.2010.15,Arapinis M.,article,RRexportMyrtoArapinis2010
+2010,InProceedings,"computer security foundations symposium (csf), 2010 23rd ieee",68,Edinburgh Research Explorer (University of Edinburgh),None,Arapinis M.,article,RRexportMyrtoArapinis2010
+2006,InProceedings,pixy: a static analysis tool for detecting web application vulnerabilities,714,Unknown Venue,10.1109/sp.2006.29,Jovanovic N.,article,RRexportN.Jovanovic2006
+2005,Journal,trends in automotive communication systems,481,Proceedings of the IEEE,10.1109/jproc.2005.849725,Navet N.,article,RRexportN.Navet2005
+2002,InProceedings,inheritance: from code reuse to reasoning reuse,33,Unknown Venue,10.1109/icsr.1998.685745,Soundarajan N.,article,RRexportN.Soundarajan2002
+2010,Book,modèles de temps et leur intérêt à la vérification formelle des systèmes temps-réel,9,Unknown Venue,None,Belala N.,article,RRexportNabilBelala2010
+1992,Journal,using mappings to prove timing properties,51,Distributed Computing,10.1007/bf02252683,Lynch N.A.,article,RRexportNancyA.Lynch1992
+2001,Book,a testing theory for generally distributed stochastic processes,28,LNCS,10.1007/3-540-44685-0_22,López N.,article,RRexportNataliaLópez2001
+2011,Book,off-line test selection with test purposes for non-deterministic timed automata,22,LNCS,10.1007/978-3-642-19835-9_10,Bertrand N.,article,RRexportNathalieBertrand2011
+2012,Journal,off-line test selection with test purposes for non-deterministic timed automata,18,Logical Methods in Computer Science,10.2168/lmcs-8(4:8)2012,Bertrand N.,article,RRexportNathalieBertrand2012
+2012,Journal,off-line test selection with test purposes for non-deterministic timed automata,18,Logical Methods in Computer Science,10.2168/lmcs-8(4:8)2012,Bertrand N.,article,RRexportNathalieBertrand2012
+2008,InProceedings,aspect-oriented modeling for variability management,46,Unknown Venue,10.1109/splc.2008.44,Noda N.,article,RRexportNatsukoNoda2008
+2011,Book,synchronizing asynchronous conformance testing,16,LNCS,10.1007/978-3-642-24690-6_23,Noroozi N.,article,RRexportNedaNoroozi2011
+2004,Book,incremental reasoning for object oriented systems,8,LNCS,10.1007/978-3-540-39993-3_15,Soundarajan N.,article,RRexportNeelamSoundarajan2004
+2007,InProceedings,multiple ownership,79,Unknown Venue,10.1145/1297027.1297060,Cameron N.R.,article,RRexportNicholasR.Cameron2007
+2008,Book,scoot: a tool for the analysis of systemc models,45,Tools and Algorithms for Construction and Analysis of Systems,10.1007/978-3-540-78800-3_36,Blanc N.,article,RRexportNicolasBlanc2008
+2007,InProceedings,achieving both model and code coverage with automated gray-box testing,26,Unknown Venue,10.1145/1291535.1291536,Kicillof N.,article,RRexportNicolasKicillof2007
+1986,Journal,graph-based algorithms for boolean function manipulation,9020,IEEE Transactions on Computers,10.1109/tc.1986.1676819,Bryant N.,article,RRexportNoneBryant1986
+2002,InProceedings,mutation-based inter-class testing,18,Unknown Venue,10.1109/apsec.1998.733717,Yoon N.H.,article,RRexportNoneHoijinYoon2002
+2005,InProceedings,specification-based testing with linear temporal logic,89,Unknown Venue,10.1109/iri.2004.1431509,Tan N.L.,article,RRexportNoneLiTan2005
+2007,InProceedings,towards rtl test generation from systemc tlm specifications,13,Unknown Venue,10.1109/hldvt.2007.4392793,Chen N.M.,article,RRexportNoneMingsongChen2007
+2005,InProceedings,property-oriented testing of real-time systems,5,Unknown Venue,10.1109/apsec.2004.78,Li N.S.,article,RRexportNoneShuhaoLi2005
+2003,InProceedings,inter-class mutation operators for java,220,Unknown Venue,10.1109/issre.2002.1173287,Ma N.Y.S.,article,RRexportNoneYu-SeungMa2003
+2006,Unknown,verification of sequential imperative programs in isabelle/hol,121,Unknown Venue,None,Schirmer N.,article,RRexportNorbertSchirmer2006
+1964,Journal,h = w,176,Proceedings of the National Academy of Sciences,10.1073/pnas.51.6.1055,Meyers N.G.,article,RRexportNormanG.Meyers1964
+2012,Book,collecting and interpreting qualitative materials,6061,Unknown Venue,None,Denzin N.K.,article,RRexportNormanK.Denzin2012
+2008,InProceedings,test of preemptive real-time systems,1,Unknown Venue,10.1109/aiccsa.2008.4493609,Adjir N.,article,RRexportNoureddineAdjir2008
+2009,Book,testing real-time systems using tina,15,LNCS,10.1007/978-3-642-05031-2_1,Adjir N.,article,RRexportNoureddineAdjir2009
+2009,InProceedings,time-optimal real-time test case generation using prioritized time petri nets,2,Unknown Venue,10.1109/valid.2009.31,Adjir N.,article,RRexportNoureddineAdjir2009
+1997,Book,on test case generation from asynchronously communicating state machines,25,Springer eBooks,10.1007/978-0-387-35198-8_16,Henniger O.,article,RRexportO.Henniger1997
+2011,InProceedings,test selection for data-flow reactive systems based on observations,3,Unknown Venue,10.1109/icstw.2011.71,Timo O.N.,article,RRexportOmerNguena-Timo2011
+2002,InProceedings,semantic anomaly detection in online data sources,96,Unknown Venue,10.1145/581339.581378,Raz O.,article,RRexportOrnaRaz2002
+2002,InProceedings,semantic anomaly detection in online data sources,38,Unknown Venue,10.1145/581376.581378,Raz O.,article,RRexportOrnaRaz2002
+2006,InProceedings,extended timed automata and time petri nets,24,Unknown Venue,10.1109/acsd.2006.6,Bouyer P.,article,RRexportP.Bouyer2006
+2002,InProceedings,automated generation of statistical test cases from uml state diagrams,64,Unknown Venue,10.1109/cmpsac.2001.960618,Chevalley P.,article,RRexportP.Chevalley2002
+2002,InProceedings,using model checking to generate tests from specifications,310,Unknown Venue,10.1109/icfem.1998.730569,Ammann P.,article,RRexportP.E.Ammann2002
+2003,InProceedings,"automotive virtual integration platforms: why's, what's, and how's",30,Unknown Venue,10.1109/iccd.2002.1106796,Giusto P.,article,RRexportP.Giusto2003
+2002,InProceedings,integration of time in canonical testers for real-time systems,14,Unknown Venue,10.1109/words.1997.609956,Laurencot P.,article,RRexportP.Laurencot2002
+1976,Journal,recoverability of communication protocols--implications of a theoretical study,876,IRE Transactions on Communications Systems,10.1109/tcom.1976.1093424,Merlin P.,article,RRexportP.Merlin1976
+2006,Book,eager markov chains,7,LNCS,10.1007/11901914_5,Abdulla P.A.,article,RRexportParoshAzizAbdulla2006
+2008,Book,stochastic games with lossy channels,568,LNCS,10.1007/978-3-540-78499-9_4,Abdulla P.A.,article,RRexportParoshAzizAbdulla2008
+1997,InProceedings,model checking for programming languages using verisoft,838,Unknown Venue,10.1145/263699.263717,Godefroid P.,article,RRexportPatriceGodefroid1997
+2005,InProceedings,dart,1454,Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation,10.1145/1065010.1065036,Godefroid P.,article,RRexportPatriceGodefroid2005
+2007,Journal,compositional dynamic test generation,415,ACM SIGPLAN Notices,10.1145/1190215.1190226,Godefroid P.,article,RRexportPatriceGodefroid2007
+2010,InProceedings,proving memory safety of floating-point computations by combining static and dynamic program analysis,32,Unknown Venue,10.1145/1831708.1831710,Godefroid P.,article,RRexportPatriceGodefroid2010
+2007,Journal,optimal infinite scheduling for multi-priced timed automata,66,Formal Methods in System Design,10.1007/s10703-007-0043-4,Bouyer P.,article,RRexportPatriciaBouyer2007
+2009,Journal,from qualitative to quantitative analysis of timed systems,32,Unknown Venue,None,Bouyer P.,article,RRexportPatriciaBouyer2009
+1996,Journal,abstract interpretation,277,ACM Computing Surveys,10.1145/234528.234740,Cousot P.,article,RRexportPatrickCousot1996
+2006,InProceedings,the topcased project : a toolkit in open source for critical aeronautic systems design,84,HAL (Le Centre pour la Communication Scientifique Directe),None,Farail P.,article,RRexportPatrickFarail2006
+2009,InProceedings,deontic logics for modeling behavioural variability,20,Variability Modelling of Software-Intensive Systems,None,Asirelli P.,article,RRexportPatriziaAsirelli2009
+2008,InProceedings,model checking systemc designs using timed automata,90,Unknown Venue,10.1145/1450135.1450166,Herber P.,article,RRexportPaulaHerber2008
+2009,Book,combining model checking and testing in a continuous hw/sw co-verification process,11,LNCS,10.1007/978-3-642-02949-3_10,Herber P.,article,RRexportPaulaHerber2009
+2010,InProceedings,automated conformance evaluation of systemc designs using timed automata,18,Unknown Venue,10.1109/etsym.2010.5512761,Herber P.,article,RRexportPaulaHerber2010
+2011,InProceedings,transforming systemc transaction level models into uppaal timed automata,24,Unknown Venue,10.1109/memcod.2011.5970523,Herber P.,article,RRexportPaulaHerber2011
+2013,Journal,a hw/sw co-verification framework for systemc,31,ACM Transactions on Embedded Computing Systems,10.1145/2435227.2435257,Herber P.,article,RRexportPaulaHerber2013
+2008,Book,introduction to software testing,714,Unknown Venue,10.1017/cbo9780511809163,Ammann P.,article,RRexportPaulAmmann2008
+2005,Journal,a theory of stochastic systems part ii: process algebra,39,Information and Computation,10.1016/j.ic.2005.07.002,D’Argenio P.R.,article,RRexportPedroR.D’Argenio2005
+2014,Book,bidirectionally tolerating inconsistency: partial transformations,258,LNCS,10.1007/978-3-642-54804-8_3,Stevens P.,article,RRexportPerditaStevens2014
+2002,Journal,specification of real-time and hybrid systems in rewriting logic,115,Theoretical Computer Science,10.1016/s0304-3975(01)00363-2,Ölveczky P.C.,article,RRexportPeterCsabaÖlveczky2002
+2007,Journal,semantics and pragmatics of real-time maude,240,Higher-Order and Symbolic Computation,10.1007/s10990-007-9001-5,Ölveczky P.C.,article,RRexportPeterCsabaÖlveczky2007
+2007,Journal,abstraction and completeness for real-time maude,57,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2007.06.005,Ölveczky P.C.,article,RRexportPeterCsabaÖlveczky2007
+1994,Journal,"copying, sharing, and aliasing",13,Unknown Venue,None,Grogono P.,article,RRexportPeterGrogono1994
+2000,Book,copying and comparing: problems and solutions,32,LNCS,10.1007/3-540-45102-1_11,Grogono P.,article,RRexportPeterGrogono2000
+2000,Book,copying and comparing : problems and solutions,32,LNCS,10.1007/3-540-45102-1_11,Grogono P.,article,RRexportPeterGrogono2000
+2010,Journal,dynamic frames in java dynamic logic formalisation and proofs,2,Unknown Venue,10.5445/ir/1000018332,Schmitt P.H.,article,RRexportPeterH.Schmitt2010
+2010,Book,the isabelle collections framework,47,LNCS,10.1007/978-3-642-14052-5_24,Lammich P.,article,RRexportPeterLammich2010
+2006,Journal,modular invariants for layered object structures,131,Science of Computer Programming,10.1016/j.scico.2006.03.001,Müller P.,article,RRexportPeterMüller2006
+2001,Book,air and spaceborne radar systems: an introduction,59,Unknown Venue,None,Lacomme P.,article,RRexportPhilippeLacomme2001
+2009,Journal,an evaluation of dynamic partial reconfiguration for signal and image processing in professional electronics applications,66,EURASIP Journal on Embedded Systems,10.1155/2008/367860,Manet P.,article,RRexportPhilippeManet2009
+2008,Journal,scala actors: unifying thread-based and event-based programming,353,Theoretical Computer Science,10.1016/j.tcs.2008.09.019,Haller P.,article,RRexportPhilippHaller2008
+2007,Book,proving programs incorrect using a sequent calculus for java dynamic logic,16,LNCS,10.1007/978-3-540-73770-4_3,Rümmer P.,article,RRexportPhilippRümmer2007
+1981,InProceedings,temporal logic can be more expressive,133,Unknown Venue,10.1109/sfcs.1981.44,Wolper P.,article,RRexportPierreWolper1981
+2010,InProceedings,switched flexray: increasing the effective bandwidth and safety of flexray networks,21,Unknown Venue,10.1109/etfa.2010.5641268,Milbredt P.,article,RRexportPMilbredt2010
+2007,InProceedings,model composition in product lines and feature interaction detection using critical pair analysis,133,Model Driven Engineering Languages and Systems,10.5555/2394101.2394116,Jayaraman P.,article,RRexportPraveenJayaraman2007
+2014,InProceedings,compositional specifications for ioco testing,23,Unknown Venue,10.1109/icst.2014.50,Daca P.,article,RRexportPrzemyslawDaca2014
+2007,Book,local testing of message sequence charts is difficult,11,LNCS,10.1007/978-3-540-74240-1_8,Bhateja P.,article,RRexportPuneetBhateja2007
+2008,InProceedings,tagging make local testing of message-passing systems feasible,2,Unknown Venue,10.1109/sefm.2008.33,Bhateja P.,article,RRexportPuneetBhateja2008
+1978,Journal,hints on test data selection: help for the practicing programmer,2045,Computer,10.1109/c-m.1978.218136,DeMillo R.,article,RRexportR.A.DeMillo1978
+1985,Journal,testing formal specifications to detect design errors,191,IEEE Transactions on Software Engineering,10.1109/tse.1985.231535,Kemmerer R.,article,RRexportR.A.Kemmerer1985
+1984,Journal,testing equivalences for processes,1163,Theoretical Computer Science,10.1016/0304-3975(84)90113-0,Nicola R.D.,article,RRexportR.DeNicola1984
+1999,Journal,test development for communication protocols: towards automation,71,Computer Networks,10.1016/s1389-1286(99)00063-8,Dssouli R.,article,RRexportR.Dssouli1999
+2003,Journal,prioritising information systems projects in higher education,11,Campus-Wide Information Systems,10.1108/10650740310491324,Dutta R.,article,RRexportR.Dutta2003
+2002,InProceedings,passive testing of networks using a cfsm specification,38,Unknown Venue,10.1109/pccc.1998.659924,Miller R.,article,RRexportR.E.Miller2002
+2002,InProceedings,fault identification in networks by passive testing,31,Unknown Venue,10.1109/simsym.2001.922142,Miller R.,article,RRexportR.E.Miller2002
+2002,InProceedings,on fault location in networks by passive testing,33,Unknown Venue,10.1109/pccc.2000.830329,Miller R.,article,RRexportR.E.Miller2002
+1993,Journal,inference of finite automata using homing sequences,404,Information and Computation,10.1006/inco.1993.1021,Rivest R.,article,RRexportR.L.Rivest1993
+1997,Journal,testing from a finite state machine: extending invertibility to sequences,31,The Computer Journal,10.1093/comjnl/40.4.220,Hierons R.M.,article,RRexportR.M.Hierons1997
+2004,Journal,testing from a nondeterministic finite state machine using adaptive state counting,92,IEEE Transactions on Computers,10.1109/tc.2004.85,Hierons R.,article,RRexportR.M.Hierons2004
+2004,Journal,testing conformance of a deterministic implementation against a non-deterministic stream x-machine,38,Theoretical Computer Science,10.1016/j.tcs.2004.04.002,Hierons R.,article,RRexportR.M.Hierons2004
+2007,Journal,the effect of the distributed test architecture on the power of testing,41,The Computer Journal,10.1093/comjnl/bxm096,Hierons R.M.,article,RRexportR.M.Hierons2007
+1960,Journal,regular expressions and state graphs for automata,533,IEEE Transactions on Electronic Computers,10.1109/tec.1960.5221603,McNaughton R.,article,RRexportR.McNaughton1960
+2001,Journal,testing a system specified using statecharts and z,35,Information and Software Technology,10.1016/s0950-5849(00)00145-2,Hierons R.,article,RRexportR.MHierons2001
+1995,Journal,using ahp for resource allocation problems,130,European Journal of Operational Research,10.1016/0377-2217(93)e0240-x,Ramanathan R.,article,RRexportR.Ramanathan1995
+1994,Journal,estimating the time-zero spectrum in time-resolved emmsion measurements of solvation dynamics,395,Chemical Physics,10.1016/0301-0104(94)00019-0,Fee R.,article,RRexportR.S.Fee1994
+1998,Book,a practical and complete algorithm for testing real-time systems,66,LNCS,10.1007/bfb0055352,Oliver R.C.,article,RRexportRachelCardell-Oliver1998
+2000,Journal,conformance tests for real-time systems with timed automata specifications,81,Formal Aspects of Computing,10.1007/s001650070009,Oliver R.C.,article,RRexportRachelCardell-Oliver2000
+2002,Journal,conformance test experiments for distributed real-time systems,23,ACM SIGSOFT Software Engineering Notes,10.1145/566171.566196,Oliver R.C.,article,RRexportRachelCardell-Oliver2002
+1996,Journal,a decision model for interdependent information system project selection,220,European Journal of Operational Research,10.1016/0377-2217(94)00257-6,Santhanam R.,article,RRexportRadhikaSanthanam1996
+1994,Journal,a theory of timed automata,6436,Theoretical Computer Science,10.1016/0304-3975(94)90010-8,Alur R.,article,RRexportRajeevAlur1994
+1999,Journal,event-clock automata: a determinizable class of timed automata,257,Theoretical Computer Science,10.1016/s0304-3975(97)00173-4,Alur R.,article,RRexportRajeevAlur1999
+1999,InProceedings,timed automata,467,Computer Aided Verification,None,Alur R.,article,RRexportRajeevAlur1999
+2004,Book,a temporal logic of nested calls and returns,3353,LNCS,10.1007/978-3-540-24730-2_35,Alur R.,article,RRexportRajeevAlur2004
+2004,InProceedings,visibly pushdown languages,554,Unknown Venue,10.1145/1007352.1007390,Alur R.,article,RRexportRajeevAlur2004
+2008,Journal,first-order and temporal logics for nested words,95,Logical Methods in Computer Science,10.2168/lmcs-4(4:11)2008,Alur R.,article,RRexportRajeevAlur2008
+2008,Journal,first-order and temporal logics for nested words,95,Logical Methods in Computer Science,10.2168/lmcs-4(4:11)2008,Alur R.,article,RRexportRajeevAlur2008
+2010,Book,temporal reasoning for procedural programs,20,LNCS,10.1007/978-3-642-11319-2_7,Alur R.,article,RRexportRajeevAlur2010
+2003,Journal,automatic component protocol adaptation with the coconut /j tool suite,41,Future Generation Computer Systems,10.1016/s0167-739x(02)00173-5,Reussner R.H.,article,RRexportRalfH.Reussner2003
+2009,InProceedings,towards an industrial strength process for timed testing,8,"International Conference on Software Testing, Verification and Validation Workshops",10.1109/icstw.2009.42,Mitsching R.,article,RRexportRalfMitsching2009
+2007,InProceedings,automatic state-based test generation using genetic algorithms,64,Unknown Venue,10.1109/synasc.2007.47,Lefticaru R.,article,RRexportRalucaLefticaru2007
+2008,InProceedings,an effective approach for model checking systemc designs,11,Unknown Venue,10.1109/acsd.2008.4574596,Behjati R.,article,RRexportRaziehBehjati2008
+1987,Journal,extensional equivalence for transition systems,257,Acta Informatica,10.1007/bf00264365,Nicola R.D.,article,RRexportRDeNicola1987
+2008,Book,tutorial introduction to graph transformation,9,LNCS,10.1007/978-3-540-87405-8_31,Heckel R.,article,RRexportReikoHeckel2008
+2000,Journal,on-the-fly conformance testing using spin,94,International Journal on Software Tools for Technology Transfer,10.1007/s100090050044,Vries R.G.D.,article,RRexportRen&#x000E9;G.deVries2000
+1979,Journal,social processes and proofs of theorems and programs,519,Communications of the ACM,10.1145/359104.359106,Millo R.A.D.,article,RRexportRichardA.DeMillo1979
+1995,Book,irish voters decide: voting behaviour in elections and referendums since 1918,180,Unknown Venue,None,Sinnott R.,article,RRexportRichardSinnott1995
+2005,Book,fit for developing software: framework for integrated tests (robert c martin),128,Prentice Hall PTR eBooks,None,Mugridge R.,article,RRexportRickMugridge2005
+2012,InProceedings,raef: a power normalized system-level reliability analysis and estimation framework,2,IEEE Computer Society Annual Symposium on VLSI,10.1109/isvlsi.2012.42,Shafik R.A.,article,RRexportRishadA.Shafik2012
+1982,Journal,reporting of management forecasts: an eigenvector model for elicitation and review of forecasts,14,Decision Sciences,10.1111/j.1540-5915.1982.tb00127.x,Jensen R.E.,article,RRexportRobertE.Jensen1982
+1986,Journal,matrix scaling of subjective probabilities of economic forecasts,11,Economics Letters,10.1016/0165-1765(86)90027-3,Jensen R.E.,article,RRexportRobertE.Jensen1986
+2000,Journal,a compiler for the java hotspottm virtual machine,25,Unknown Venue,None,Griesemer R.,article,RRexportRobertGriesemer2000
+1984,Book,case study research: design and methods,77650,Unknown Venue,None,Yin R.K.,article,RRexportRobertK.Yin1984
+2007,InProceedings,mutation testing from probabilistic finite state machines,31,Unknown Venue,10.1109/taic.part.2007.20,Hierons R.M.,article,RRexportRobertM.Hierons2007
+2008,Book,implementation relations for the distributed test architecture,37,LNCS,10.1007/978-3-540-68524-1_15,Hierons R.M.,article,RRexportRobertM.Hierons2008
+2008,Journal,testing from a stochastic timed system with a fault model,39,The Journal of Logic and Algebraic Programming,10.1016/j.jlap.2008.06.001,Hierons R.M.,article,RRexportRobertM.Hierons2008
+2009,Journal,using formal specifications to support testing,350,ACM Computing Surveys,10.1145/1459352.1459354,Hierons R.M.,article,RRexportRobertM.Hierons2009
+2009,Journal,mutation testing from probabilistic and stochastic finite state machines,55,Journal of Systems and Software,10.1016/j.jss.2009.06.030,Hierons R.M.,article,RRexportRobertM.Hierons2009
+2011,Journal,implementation relations and test generation for systems with distributed interfaces,31,Distributed Computing,10.1007/s00446-011-0149-1,Hierons R.M.,article,RRexportRobertM.Hierons2011
+2012,Book,using time to add order to distributed testing,18,LNCS,10.1007/978-3-642-32759-9_20,Hierons R.M.,article,RRexportRobertM.Hierons2012
+2014,Journal,implementation relations for the distributed test architecture,13,Distributed Computing,10.1007/s00446-014-0208-5,Hierons R.M.,article,RRexportRobertM.Hierons2014
+2006,Journal,test case generation for mutation-based testing of timeliness,58,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2006.10.010,Nilsson R.,article,RRexportRobertNilsson2006
+2001,Book,a standard problem for evaluating product-line methodologies,163,LNCS,10.1007/3-540-44800-4_2,Herrejon R.E.L.,article,RRexportRobertoE.Lopez-Herrejon2001
+2005,Book,evaluating support for features in advanced modularization technologies,106,LNCS,10.1007/11531142_8,Herrejon R.E.L.,article,RRexportRobertoE.Lopez-Herrejon2005
+1997,Journal,"quiescence, fairness, testing, and the notion of implementation",43,Information and Computation,10.1006/inco.1997.2652,Segala R.,article,RRexportRobertoSegala1997
+1977,Journal,a fast string searching algorithm,2306,Communications of the ACM,10.1145/359842.359859,Boyer R.S.,article,RRexportRobertS.Boyer1977
+1999,Book,"testing object-oriented systems: models, patterns, and tools",1315,Unknown Venue,None,Binder R.V.,article,RRexportRobertV.Binder1999
+1989,Book,communication and concurrency,7120,Unknown Venue,None,Milner R.,article,RRexportRobinMilner1989
+1990,Journal,operational and algebraic semantics of concurrent processes,98,Unknown Venue,None,Milner R.,article,RRexportRobinMilner1990
+1999,Book,communicating and mobile systems: the pi-calculus,2337,Unknown Venue,None,Milner R.,article,RRexportRobinMilner1999
+1989,InProceedings,equivalence notions for concurrent systems and refinement of actions (extended abstract),61,Mathematical Foundations of Computer Science,None,Glabbeek R.J.V.,article,RRexportRobJ.vanGlabbeek1989
+2012,Book,on distributability of petri nets,25,LNCS,10.1007/978-3-642-28729-9_22,Glabbeek R.V.,article,RRexportRobvanGlabbeek2012
+1983,InProceedings,testing equivalence for processes,208,"International Colloquium on Automata, Languages and Programming",None,Nicola R.D.,article,RRexportRoccoDeNicola1983
+1978,Journal,using encryption for authentication in large networks of computers,2377,Communications of the ACM,10.1145/359657.359659,Needham R.M.,article,RRexportRogerM.Needham1978
+1993,InProceedings,mutation analysis using mutant schemata,187,Unknown Venue,10.1145/154183.154265,Untch R.H.,article,RRexportRolandH.Untch1993
+1992,Journal,bundle event stuctures: a non-interleaving semantics for lotos,0,Unknown Venue,None,Langerak R.,article,RRexportRomanusLangerak1992
+1989,Journal,a testing theory for lotos using deadlock detection,69,Unknown Venue,None,Langerak R.,article,RRexportRomLangerak1989
+1992,InProceedings,bundle event structures: a non-interleaving semantics for lotos,81,Formal Techniques for (Networked and) Distributed Systems,None,Langerak R.,article,RRexportRomLangerak1992
+1999,Book,a complete finite prefix for process algebra,26,LNCS,10.1007/3-540-48683-6_18,Langerak R.,article,RRexportRomLangerak1999
+1991,Journal,efficiently computing static single assignment form and the control dependence graph,2259,ACM Transactions on Programming Languages and Systems,10.1145/115372.115320,Cytron R.,article,RRexportRonCytron1991
+1990,Journal,specifying real-time properties with metric temporal logic,1171,Real-Time Systems,10.1007/bf01995674,Koymans R.,article,RRexportRonKoymans1990
+2003,InProceedings,expert system based automatic network fault management system,1,Unknown Venue,10.1109/cmpsac.1989.65178,Yeh S.W.,article,RRexportS.-W.Yeh2003
+2004,Journal,model-based performance prediction in software development: a survey,774,IEEE Transactions on Software Engineering,10.1109/tse.2004.9,Balsamo S.,article,RRexportS.Balsamo2004
+1996,Book,mutation testing applied to validate specifications based on petri nets,69,IFIP advances in information and communication technology,10.1007/978-0-387-34945-9_24,Fabbri S.C.P.F.,article,RRexportS.C.P.F.Fabbri1996
+2003,InProceedings,mutation testing applied to validate specifications based on statecharts,126,Unknown Venue,10.1109/issre.1999.809326,Fabbri S.,article,RRexportS.C.P.F.Fabbri2003
+2003,InProceedings,proteum/fsm: a tool to support finite state machine validation based on mutation testing,62,Unknown Venue,10.1109/sccc.1999.810159,Fabbri S.,article,RRexportS.C.P.F.Fabbri2003
+2002,InProceedings,mutation analysis testing for finite state machines,146,Unknown Venue,10.1109/issre.1994.341378,Fabbri S.P.F.,article,RRexportS.C.PintoFerrazFabbri2002
+1991,Journal,test selection based on finite state models,564,IEEE Transactions on Software Engineering,10.1109/32.87284,Fujiwara S.,article,RRexportS.Fujiwara1991
+1999,InProceedings,model-based testing in practice,514,Unknown Venue,10.1145/302405.302640,Dalal S.R.,article,RRexportS.R.Dalal1999
+1985,Journal,selecting software test data using data flow information,1100,IEEE Transactions on Software Engineering,10.1109/tse.1985.232226,Rapps S.,article,RRexportS.Rapps1985
+1999,InProceedings,criteria for testing exception-handling constructs in java programs,67,Unknown Venue,10.1109/icsm.1999.792624,Sinha S.,article,RRexportS.Sinha1999
+2010,Book,a conformance testing relation for symbolic timed automata,15,LNCS,10.1007/978-3-642-15297-9_19,Styp S.V.,article,RRexportSabrinavonStyp2010
+2004,Book,state/event-based software model checking,149,LNCS,10.1007/978-3-540-24756-2_8,Chaki S.,article,RRexportSagarChaki2004
+2003,Book,distributed diagnosis of discrete-event systems using petri nets,86,LNCS,10.1007/3-540-44919-1_21,Genc S.,article,RRexportSahikaGenc2003
+2003,Book,distributed diagnosis of discrete-event systems using petri nets,86,LNCS,10.1007/3-540-44919-1_21,Genc S.,article,RRexportSahikaGenc2003
+2010,InProceedings,adapting component behaviours using interface automata,10,Unknown Venue,10.1109/seaa.2010.34,Chouali S.,article,RRexportSamirChouali2010
+2006,InProceedings,multiple fault models for timed fsms,2,2005 IEEE Instrumentationand Measurement Technology Conference Proceedings,10.1109/imtc.2006.328260,Batth S.S.,article,RRexportSamratS.Batth2006
+1987,Journal,observation equivalence as a testing equivalence,205,Theoretical Computer Science,10.1016/0304-3975(87)90065-x,Abramsky S.,article,RRexportSamsonAbramsky1987
+2010,Journal,finding bugs in web applications using dynamic test generation and explicit-state model checking,157,IEEE Transactions on Software Engineering,10.1109/tse.2010.31,Artzi S.,article,RRexportSArtzi2010
+2008,Book,hol-boogie -- an interactive prover for the boogie program-verifier,29,LNCS,10.1007/978-3-540-71067-7_15,Böhme S.,article,RRexportSaschaBöhme2008
+2009,Journal,hol-boogie--an interactive prover-backend for the verifying c compiler,34,Journal of Automated Reasoning,10.1007/s10817-009-9142-9,Böhme S.,article,RRexportSaschaBöhme2009
+2002,Book,verifying bdd algorithms through monadic interpretation,16,LNCS,10.1007/3-540-47813-2_13,Krstić S.,article,RRexportSavaKrstić2002
+2012,Book,moving from specifications to contracts in component-based design,104,LNCS,10.1007/978-3-642-28872-2_3,Bauer S.S.,article,RRexportSebastianS.Bauer2012
+2006,Journal,software estimation in the maintenance context,38,ACM SIGSOFT Software Engineering Notes,10.1145/1118537.1118540,Diev S.,article,RRexportSergeyDiev2006
+2004,Book,"formal techniques, modelling and analysis of timed and fault-tolerant systems",81,Unknown Venue,None,Yovine S.,article,RRexportSergioYovine2004
+2002,Book,performance analysis of component-based applications,37,LNCS,10.1007/3-540-45652-x_19,Yacoub S.,article,RRexportSherifYacoub2002
+2007,Journal,an analysis approach for testing exception handling programs,17,ACM SIGPLAN Notices,10.1145/1288258.1288259,Jiang S.,article,RRexportShujuanJiang2007
+2002,Journal,negotiable interfaces for components,5,The Journal of Object Technology,10.5381/jot.2002.1.3.a14,Kent S.D.,article,RRexportSimonD.Kent2002
+2009,Book,"modeling, verification and testing using timed and hybrid automata",12,"Computational analysis, synthesis, and design of dynamic models series",10.1201/9781420067859-c13,Tripakis S.,article,RRexportStavrosTripakis2009
+2007,Book,testing input/output partial order automata,35,LNCS,10.1007/978-3-540-73066-8_12,Haar S.,article,RRexportStefanHaar2007
+2002,Journal,model-checking pushdown systems,211,Unknown Venue,None,Schwoon S.,article,RRexportStefanSchwoon2002
+2008,Book,deriving input partitions from uml models for automatic test generation,28,LNCS,10.1007/978-3-540-69073-3_17,Weißleder S.,article,RRexportStephanWeißleder2008
+2003,Book,the maude ltl model checker and its implementation,77,LNCS,10.1007/3-540-44829-2_16,Eker S.,article,RRexportStevenEker2003
+1996,Book,metaedit+: a fully configurable multi-user and multi-tool case and came environment,314,Notes on numerical fluid mechanics and multidisciplinary design,10.1007/3-540-61292-0_1,Kelly S.,article,RRexportStevenKelly1996
+1999,Book,concurrent and real-time systems: the csp approach,438,Unknown Venue,None,Schneider S.,article,RRexportSteveSchneider1999
+1999,Journal,petri net languages and infinite subsets of nm,32,Journal of Computer and System Sciences,10.1006/jcss.1999.1634,Gaubert S.,article,RRexportStéphaneGaubert1999
+1994,Journal,probabilistic diagnosis of multiprocessor systems,59,ACM Computing Surveys,10.1145/174666.174669,Lee S.,article,RRexportSungguLee1994
+1997,Book,interoperability test suite derivation for symmetric communication protocols,21,Springer eBooks,10.1007/978-0-387-35271-8_4,Kang S.,article,RRexportSungwonKang1997
+2007,InProceedings,web services choreography and orchestration in reo and constraint automata,62,Unknown Venue,10.1145/1244002.1244085,Meng S.,article,RRexportSunMeng2007
+1995,Book,test selection based on finite state models,214,IEEE Computer Society Press eBooks,None,Fujiwara S.,article,RRexportSusumuFujiwara1995
+2005,Book,featurec++: on the symbiosis of feature-oriented and aspect-oriented programming,187,LNCS,10.1007/11561347_10,Apel S.,article,RRexportSvenApel2005
+2008,Book,superimposition: a language-independent approach to software composition,60,Software Composition,10.1007/978-3-540-78789-1_2,Apel S.,article,RRexportSvenApel2008
+2009,Book,model superimposition in software product lines,98,LNCS,10.1007/978-3-642-02408-5_2,Apel S.,article,RRexportSvenApel2009
+2010,Journal,type safety for feature-oriented product lines,112,Automated Software Engineering,10.1007/s10515-010-0066-8,Apel S.,article,RRexportSvenApel2010
+2010,InProceedings,detecting dependences and interactions in feature-oriented design,59,Unknown Venue,10.1109/issre.2010.11,Apel S.,article,RRexportSvenApel2010
+2010,Journal,an algebraic foundation for automatic feature-based program synthesis,58,Science of Computer Programming,10.1016/j.scico.2010.02.001,Apel S.,article,RRexportSvenApel2010
+2006,Book,interpreting invariant composition in the b method using the spec# ownership relation: a way to explain and relax b restrictions,12,LNCS,10.1007/11955757_4,Boulmé S.,article,RRexportSylvainBoulmé2006
+2009,Book,equivalence of deterministic nested word to word transducers,23,LNCS,10.1007/978-3-642-03409-1_28,Staworko S.,article,RRexportSławomirStaworko2009
+1994,Journal,symbolic model checking for real-time systems,844,Information and Computation,10.1006/inco.1994.1045,Henzinger T.,article,RRexportT.A.Henzinger1994
+1999,InProceedings,a modular tool for test generation for real-time systems,3,Unknown Venue,10.1049/ic:19990009,Glover T.,article,RRexportT.Glover1999
+2004,InProceedings,fault tolerant design for x-by-wire vehicle,9,Society of Instrument and Control Engineers of Japan,10.11499/sicep.2004.0_124_5,Hiraoka T.,article,RRexportT.Hiraoka2004
+1987,Journal,a new macroeconomic forecasting and policy evaluation method using the analytic hierarchy process,54,Mathematical Modelling,10.1016/0270-0255(87)90479-9,Saaty T.,article,RRexportT.L.Saaty1987
+1978,Journal,testing software design modeled by finite-state machines,1418,IEEE Transactions on Software Engineering,10.1109/tse.1978.231496,Chow T.,article,RRexportT.S.Chow1978
+2005,InProceedings,scoped types for real-time java,66,Unknown Venue,10.1109/real.2004.51,Zhao T.,article,RRexportT.Zhao2005
+2004,Book,mutation testing applied to validate sdl specifications,58,LNCS,10.1007/978-3-540-24704-3_13,Sugeta T.,article,RRexportTatianaSugeta2004
+1999,Book,generating test cases for a timed i/o automaton model,99,IFIP advances in information and communication technology,10.1007/978-0-387-35567-2_13,Higashino T.,article,RRexportTeruoHigashino1999
+2010,Book,ecoop 2010 – object-oriented programming,170,LNCS,10.1007/978-3-642-14107-2,D'Hondt T.,article,RRexportTheoD'Hondt2010
+1999,Book,test generation derived from model-checking,107,LNCS,10.1007/3-540-48683-6_12,Jéron T.,article,RRexportThierryJéron1999
+2006,Book,symbolic determinisation of extended automata,13,Springer eBooks,10.1007/978-0-387-34735-6_18,Jéron T.,article,RRexportThierryJéron2006
+2009,Journal,symbolic model-based test selection,35,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2009.05.051,Jéron T.,article,RRexportThierryJéron2009
+2007,Journal,formal methods in safety-critical railway systems,50,Unknown Venue,None,lecomte T.,article,RRexportthierrylecomte2007
+2002,InProceedings,lazy abstraction,1174,Unknown Venue,10.1145/503272.503279,Henzinger T.A.,article,RRexportThomasA.Henzinger2002
+2002,Journal,lazy abstraction,166,ACM SIGPLAN Notices,10.1145/565816.503279,Henzinger T.A.,article,RRexportThomasA.Henzinger2002
+2003,Book,software verification with blast,424,LNCS,10.1007/3-540-44829-2_17,Henzinger T.A.,article,RRexportThomasA.Henzinger2003
+2005,Book,a theory of predicate-complete test coverage and generation,108,LNCS,10.1007/11561163_1,Ball T.,article,RRexportThomasBall2005
+2008,InProceedings,model-based schedulability analysis of safety critical hard real-time java programs,49,Unknown Venue,10.1145/1434790.1434807,Bøgholm T.,article,RRexportThomasBøgholm2008
+2014,Book,fdr3 — a modern refinement checker for csp,212,LNCS,10.1007/978-3-642-54862-8_13,Robinson T.G.,article,RRexportThomasGibson-Robinson2014
+2011,InProceedings,secure the clones: static enforcement of policies for secure object copying,5,HAL (Le Centre pour la Communication Scientifique Directe),None,Jensen T.,article,RRexportThomasJensen2011
+1982,Book,decision making for leaders: the analytical hierarchy process for decisions in a complex world,1692,Unknown Venue,None,Saaty T.L.,article,RRexportThomasL.Saaty1982
+1990,Journal,how to make a decision: the analytic hierarchy process,8682,European Journal of Operational Research,10.1016/0377-2217(90)90057-i,Saaty T.L.,article,RRexportThomasL.Saaty1990
+1991,Book,"prediction, projection and forecasting : applications of the analytic hierarchy process in economics, finance, politics, games and sports",114,Kluwer Academic Pub. eBooks,None,Saaty T.L.,article,RRexportThomasL.Saaty1991
+2008,Journal,decision making with the analytic hierarchy process,9064,International Journal of Services Sciences,10.1504/ijssci.2008.017590,Saaty T.L.,article,RRexportThomasL.Saaty2008
+2012,Book,"models, methods, concepts & applications of the analytic hierarchy process",1973,International series in management science/operations research/International series in operations research & management science,10.1007/978-1-4614-3597-6,Saaty T.L.,article,RRexportThomasL.Saaty2012
+1977,Journal,a scaling method for priorities in hierarchical structures,9573,Journal of Mathematical Psychology,10.1016/0022-2496(77)90033-5,Saaty T.L.,article,RRexportThomasLSaaty1977
+1984,Journal,the legitimacy of rank reversal,175,Omega,10.1016/0305-0483(84)90052-5,Saaty T.L.,article,RRexportThomasLSaaty1984
+2009,Book,constraint handling rules,107,Unknown Venue,10.1017/cbo9780511609886,Frühwirth T.,article,RRexportThomFrühwirth2009
+2002,Book,system design with systemc,807,Unknown Venue,None,Grotker T.,article,RRexportThorstenGrotker2002
+1978,InProceedings,the design of a prototype mutation system for program testing,90,AFIPS conference proceedings,None,Budd T.A.,article,RRexportTimothyA.Budd1978
+1978,InProceedings,the design of a prototype mutation system for program testing,90,AFIPS conference proceedings,None,Budd T.A.,article,RRexportTimothyA.Budd1978
+1978,InProceedings,the design of a prototype mutation system for program testing,90,AFIPS conference proceedings,None,Budd T.A.,article,RRexportTimothyA.Budd1978
+1985,Journal,program testing by specification mutation,91,Computer Languages,10.1016/0096-0551(85)90011-6,Budd T.A.,article,RRexportTimothyA.Budd1985
+2000,Book,combinations of model checking and theorem proving,32,LNCS,10.1007/10720084_11,Uribe T.E.,article,RRexportTomásE.Uribe2000
+1985,Book,communicating sequential processes,9147,Unknown Venue,None,Hoare T.,article,RRexportTonyHoare1985
+1995,Book,testing software design modeled by finite-state machines,41,IEEE Computer Society Press eBooks,None,Chow T.S.,article,RRexportTsunS.Chow1995
+1998,Journal,an introduction to history dependent automata,50,Electronic Notes in Theoretical Computer Science,10.1016/s1571-0661(05)80696-6,Montanari U.,article,RRexportUgoMontanari1998
+2002,Book,object modeling with the ocl,84,LNCS,10.1007/3-540-45669-4,Author U.,article,RRexportUnknownAuthor2002
+2003,Book,abstract state machines 2003,79,LNCS,10.1007/3-540-36498-6,Author U.,article,RRexportUnknownAuthor2003
+2003,Journal,formalizing java-mac,5,Electronic Notes in Theoretical Computer Science,10.1016/s1571-0661(04)81048-x,Sammapun U.,article,RRexportUsaSammapun2003
+2005,Journal,analyzing alternatives in reverse logistics for end-of-life computers: anp and balanced scorecard approach,481,Computers & Industrial Engineering,10.1016/j.cie.2005.01.017,Ravi V.,article,RRexportV.Ravi2005
+2004,Journal,specification mutation for test generation and analysis,26,Unknown Venue,None,Okun V.,article,RRexportVadimOkun2004
+2008,InProceedings,coercion-resistant tallying for stv voting,30,Conference on Electronic voting technology/workshop on trustworthy elections,None,Teague V.,article,RRexportVanessaTeague2008
+1995,Book,the book of traces,510,WORLD SCIENTIFIC eBooks,10.1142/2563,Diekert V.,article,RRexportVDiekert1995
+2006,Journal,merged processes: a new condensed representation of petri net behaviour,44,Acta Informatica,10.1007/s00236-006-0023-y,Khomenko V.,article,RRexportVictorKhomenko2006
+2003,Journal,unitesk: model based testing in industrial practice,14,Unknown Venue,None,Kuliamin V.V.,article,RRexportVictorV.Kuliamin2003
+2008,Book,subpolyhedra: a (more) scalable approach to infer linear inequalities,65,LNCS,10.1007/978-3-540-93900-9_20,Laviron V.,article,RRexportVincentLaviron2008
+1999,Journal,software selection: a case study of the application of the analytical hierarchical process to the selection of a multimedia authoring system,190,Information & Management,10.1016/s0378-7206(99)00021-x,Lai V.S.,article,RRexportVincentS.Lai1999
+2000,Book,an approach to symbolic test generation,103,LNCS,10.1007/3-540-40911-4_20,Rusu V.,article,RRexportVladRusu2000
+1996,Journal,models for concurrency: towards a classification,88,Theoretical Computer Science,10.1016/s0304-3975(96)00011-4,Sassone V.,article,RRexportVSassone1996
+2002,Journal,partial order semantics and read arcs,75,Theoretical Computer Science,10.1016/s0304-3975(01)00234-1,Vogler W.,article,RRexportWalterVogler2002
+1994,InProceedings,automatic verification of real-time communicating systems by constraint-solving,86,Formal Techniques for (Networked and) Distributed Systems,None,Yi W.,article,RRexportWangYi1994
+1995,Book,automatic verification of real-time communicating systems by constraint-solving,94,IFIP advances in information and communication technology,10.1007/978-0-387-34878-0_18,Yi W.,article,RRexportWangYi1995
+1994,Journal,smarts and smarter: improved simple methods for multiattribute utility measurement,1051,Organizational Behavior and Human Decision Processes,10.1006/obhd.1994.1087,Edwards W.,article,RRexportWardEdwards1994
+2007,InProceedings,passive online rogue access point detection using sequential hypothesis testing with tcp ack-pairs,96,Unknown Venue,10.1145/1298306.1298357,Wei W.,article,RRexportWeiWei2007
+2005,Journal,universes: lightweight ownership for jml,176,The Journal of Object Technology,10.5381/jot.2005.4.8.a1,Dietl W.,article,RRexportWernerDietl2005
+2007,InProceedings,generic universe types,96,Unknown Venue,10.5555/2394758.2394763,Dietl W.,article,RRexportWernerDietl2007
+2013,Journal,generating test cases for real-time systems based on symbolic models,15,IEEE Transactions on Software Engineering,10.1109/tse.2013.13,Andrade W.L.,article,RRexportWilkersonL.Andrade2013
+2013,Book,divergent quiescent transition systems,13,LNCS,10.1007/978-3-642-38916-0_13,Stokkink W.G.J.,article,RRexportWillemG.J.Stokkink2013
+2004,InProceedings,test input generation with java pathfinder,497,Unknown Venue,10.1145/1007512.1007526,Visser W.,article,RRexportWillemVisser2004
+2005,Book,automatic validation of transformation rules for java verification against a rewriting semantics,27,LNCS,10.1007/11591191_29,Ahrendt W.,article,RRexportWolfgangAhrendt2005
+2009,Book,a verification system for distributed objects with asynchronous method calls,12,LNCS,10.1007/978-3-642-10373-5_20,Ahrendt W.,article,RRexportWolfgangAhrendt2009
+2009,Book,a verification system for distributed objects with asynchronous method calls,12,LNCS,10.1007/978-3-642-10373-5_20,Ahrendt W.,article,RRexportWolfgangAhrendt2009
+2010,Journal,a system for compositional verification of asynchronous objects,40,Science of Computer Programming,10.1016/j.scico.2010.08.003,Ahrendt W.,article,RRexportWolfgangAhrendt2010
+2010,Journal,model-based quality assurance of protocol documentation: tools and methodology,122,Software Testing Verification and Reliability,10.1002/stvr.427,Grieskamp W.,article,RRexportWolfgangGrieskamp2010
+2003,Book,systemc: methodologies and applications,146,Kluwer Academic Publishers eBooks,None,Müller W.,article,RRexportWolfgangMüller2003
+2006,Book,an asm based systemc simulation semantics,27,Kluwer Academic Publishers eBooks,10.1007/0-306-48735-7_4,Müller W.,article,RRexportWolfgangMüller2006
+2005,Journal,abstractions for model-based testing,55,Electronic Notes in Theoretical Computer Science,10.1016/j.entcs.2004.02.086,Prenninger W.,article,RRexportWolfgangPrenninger2005
+1992,Journal,compiling real-time specifications into extended automata,130,IEEE Transactions on Software Engineering,10.1109/32.159837,Nicollin X.,article,RRexportX.Nicollin1992
+1992,Book,an overview and synthesis on timed process algebras,76,LNCS,10.1007/3-540-55179-4_36,Nicollin X.,article,RRexportXavierNicollin1992
+2007,InProceedings,kiasan/kunit: automatic test case generation and analysis feedback for open object-oriented systems,35,Unknown Venue,10.1109/taic.part.2007.32,Deng X.,article,RRexportXianghuaDeng2007
+2006,Journal,verification approach of metropolis design framework for embedded systems,10,International Journal of Parallel Programming,10.1007/s10766-005-0002-x,Chen X.,article,RRexportXiChen2006
+2008,Journal,fault masking by multiple timing faults in timed efsm models,12,Computer Networks,10.1016/j.comnet.2008.10.025,Wang Y.,article,RRexportY.Wang2008
+2009,InProceedings,automatic synthesis of computation interference constraints for relative timing verification,26,Unknown Venue,10.1109/iccd.2009.5413183,Xu Y.,article,RRexportYangXu2009
+2004,InProceedings,securing web application code by static analysis and runtime protection,570,Unknown Venue,10.1145/988672.988679,Huang Y.W.,article,RRexportYao-WenHuang2004
+2005,InProceedings,static approximation of dynamically generated web pages,258,Unknown Venue,10.1145/1060745.1060809,Minamide Y.,article,RRexportYasuhikoMinamide2005
+2003,Journal,problems in the information dissemination of the internet routing,3,Journal of Computer Science and Technology,10.1007/bf02948879,Zhao Y.,article,RRexportYixinZhao2003
+2002,Book,a simple and practical approach to unit testing: the jml and junit way,225,LNCS,10.1007/3-540-47993-7_10,Cheon Y.,article,RRexportYoonsikCheon2002
+2005,Journal,model variables: cleanly supporting abstraction in design by contract,121,Software Practice and Experience,10.1002/spe.649,Cheon Y.,article,RRexportYoonsikCheon2005
+2006,InProceedings,producing scheduling that causes concurrent programs to fail,20,Unknown Venue,10.1145/1147403.1147410,Asher Y.B.,article,RRexportYosiBen-Asher2006
+2005,Journal,mujava: an automated class mutation system: research articles,64,Software Testing Verification and Reliability,None,Ma Y.S.,article,RRexportYu-SeungMa2005
+2010,Journal,an analysis and survey of the development of mutation testing,1604,IEEE Transactions on Software Engineering,10.1109/tse.2010.62,Jia Y.,article,RRexportYueJia2010
+1995,Book,step: the stanford temporal prover,144,LNCS,10.1007/3-540-59293-8_237,Manna Z.,article,RRexportZoharManna1995
+2009,Unknown,reasoning about data abstraction in contract languages,14,Unknown Venue,10.3929/ethz-a-005916525,Darvas Ã.P.,article,RRexportÃdÃ¡mPÃ©terDarvas2009
+2008,Journal,loop detection in term rewriting using the eliminating unfoldings,26,Theoretical Computer Science,10.1016/j.tcs.2008.05.013,Payet É.,article,RRexportÉtiennePayet2008
