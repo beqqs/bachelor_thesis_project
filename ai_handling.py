@@ -12,7 +12,6 @@ from bib_file_handling import abbreviate_author_names
 import bibtexparser
 from rapidfuzz import fuzz, process
 import json
-from rapidfuzz import fuzz
 def load_titles_from_bib(file_path):#load titles from bib file as list
     with open(file_path, encoding='utf-8') as bib_file:
         bib_database = bibtexparser.load(bib_file)
@@ -252,16 +251,3 @@ def load_CSV():#open the .bib file with bibtexparser then convert to pd df, then
     data_frame = pd.DataFrame(entries)
     data_frame.to_csv('RR_results.csv', index=False)
     print(f"Conversion completed! Saved as query_results.csv\nNumber of entries: {len(entries)}")
-
-title1="Climate Change and Agriculture"
-title2="Climate Change and Agriculture – A Regional Study"
-title3="An Investigation into Plastic Waste in Marine Environments"
-title4="An Investigation into Metal Waste in Marine Environments"
-author1="Marangé P."
-author2="Marange P."
-test= fuzz.ratio(title1,title2)
-test2=fuzz.ratio(title3,title4)
-test3=fuzz.ratio(author1,author2)
-print(title1,title2,test)
-print(title3,title4,test2)
-print(author1,author2,test3)

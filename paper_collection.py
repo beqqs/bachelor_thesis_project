@@ -23,6 +23,7 @@ def search_openalex(kwd, max_results=2000):
             f"has_oa_accepted_or_published_version:true"
             f"&per-page={per_page}&cursor={cursor}"
         )
+        print(url)
         response = requests.get(url)
         if response.status_code != 200:
             raise Exception(f"API request failed: {response.status_code}, {response.text}")

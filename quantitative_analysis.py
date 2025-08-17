@@ -289,9 +289,9 @@ def QA_algo(csv_df,paper_distribution):
    paper_distribution_graph(paper_distribution)
    mergePDF()
    return 0
-# csv_df = pd.read_csv('RR_results.csv')
-# csv_df = csv_df.map(lambda x: x.decode('utf-8', errors='ignore') if isinstance(x, bytes) else x)
-# QA_algo(csv_df,[0,0,0])
+csv_df = pd.read_csv('RR_results.csv')
+csv_df = csv_df.map(lambda x: x.decode('utf-8', errors='ignore') if isinstance(x, bytes) else x)
+QA_algo(csv_df,[0,0,0])
 # number_citations(csv_df)
 # titles = csv_df.get('title')
 # years=csv_df.get('year')
